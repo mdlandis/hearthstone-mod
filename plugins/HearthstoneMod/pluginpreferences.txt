@@ -23,8 +23,8 @@
 <canned>/draw6</canned>
 <canned>/draw8</canned>
 <canned>Good game.</canned>
-<tokens>Zeong Head</tokens>
 <tokens>Core Fighter</tokens>
+<tokens>Zeong Head</tokens>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
