@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="poweroverwhelming.png">Power Overwhelming</name><set>Warlock</set></card>
+		<card><name id="flameimp.png">Flame Imp</name><set>Warlock</set></card>
+		<card><name id="flameimp.png">Flame Imp</name><set>Warlock</set></card>
+		<card><name id="voidwalker.png">Voidwalker</name><set>Warlock</set></card>
+		<card><name id="voidwalker.png">Voidwalker</name><set>Warlock</set></card>
+		<card><name id="voidterror.png">Void Terror</name><set>Warlock</set></card>
+		<card><name id="implosion.png">Imp-losion</name><set>Warlock</set></card>
+		<card><name id="implosion.png">Imp-losion</name><set>Warlock</set></card>
+		<card><name id="doomguard.png">Doomguard</name><set>Warlock</set></card>
+		<card><name id="doomguard.png">Doomguard</name><set>Warlock</set></card>
+		<card><name id="abusivesergeant.png">Abusive Sergeant</name><set>Neutral</set></card>
+		<card><name id="abusivesergeant.png">Abusive Sergeant</name><set>Neutral</set></card>
+		<card><name id="lepergnome.png">Leper Gnome</name><set>Neutral</set></card>
+		<card><name id="lepergnome.png">Leper Gnome</name><set>Neutral</set></card>
+		<card><name id="direwolfalpha.png">Dire Wolf Alpha</name><set>Neutral</set></card>
+		<card><name id="direwolfalpha.png">Dire Wolf Alpha</name><set>Neutral</set></card>
+		<card><name id="hauntedcreeper.png">Haunted Creeper</name><set>Neutral</set></card>
+		<card><name id="hauntedcreeper.png">Haunted Creeper</name><set>Neutral</set></card>
+		<card><name id="ironbeakowl.png">Ironbeak Owl</name><set>Neutral</set></card>
+		<card><name id="ironbeakowl.png">Ironbeak Owl</name><set>Neutral</set></card>
+		<card><name id="knifejuggler.png">Knife Juggler</name><set>Neutral</set></card>
+		<card><name id="knifejuggler.png">Knife Juggler</name><set>Neutral</set></card>
+		<card><name id="nerubianegg.png">Nerubian Egg</name><set>Neutral</set></card>
+		<card><name id="nerubianegg.png">Nerubian Egg</name><set>Neutral</set></card>
+		<card><name id="harvestgolem.png">Harvest Golem</name><set>Neutral</set></card>
+		<card><name id="harvestgolem.png">Harvest Golem</name><set>Neutral</set></card>
+		<card><name id="defenderofargus.png">Defender of Argus</name><set>Neutral</set></card>
+		<card><name id="defenderofargus.png">Defender of Argus</name><set>Neutral</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="renojackson.png">Reno Jackson</name><set>Neutral</set></card>
+		<card><name id="brannbronzebeard.png">Brann Bronzebeard</name><set>Neutral</set></card>
+		<card><name id="kazakus.png">Kazakus</name><set>Neutral</set></card>
+		<card><name id="deathspeakerselendre.png">Deathspeaker Selendre</name><set>Death Knight</set></card>
+		<card><name id="deathspeakerzealot.png">Deathspeaker Zealot</name><set>Death Knight</set></card>
+		<card><name id="plaguedog.png">Plague Dog</name><set>Death Knight</set></card>
+		<card><name id="graverobbinggeist.png">Graverobbing Geist</name><set>Death Knight</set></card>
+		<card><name id="nzoththecorruptor.png">N&apos;Zoth the Corruptor</name><set>Neutral</set></card>
+		<card><name id="bloodelemental.png">Blood Elemental</name><set>Death Knight</set></card>
+		<card><name id="embraltheunmaker.png">Embral the Unmaker</name><set>Death Knight</set></card>
+		<card><name id="oozebelcher.png">Ooze Belcher</name><set>Death Knight</set></card>
+		<card><name id="markofblood.png">Mark of Blood</name><set>Death Knight</set></card>
+		<card><name id="runicwaraxe.png">Runic War Axe</name><set>Death Knight</set></card>
+		<card><name id="soulblade.png">Soulblade</name><set>Death Knight</set></card>
+		<card><name id="frostmourne.png">Frostmourne</name><set>Death Knight</set></card>
+		<card><name id="shadowmourne.png">Shadowmourne</name><set>Death Knight</set></card>
+		<card><name id="darionmograine.png">Darion Mograine</name><set>Death Knight</set></card>
+		<card><name id="sylvanaswindrunner.png">Sylvanas Windrunner</name><set>Neutral</set></card>
+		<card><name id="necrofirepotion.png">Necrofire Potion</name><set>Death Knight</set></card>
+		<card><name id="gatheringstorm.png">Gathering Storm</name><set>Death Knight</set></card>
+		<card><name id="epidemic.png">Epidemic</name><set>Death Knight</set></card>
+		<card><name id="outbreak.png">Outbreak</name><set>Death Knight</set></card>
+		<card><name id="remorselesswinter.png">Remorseless Winter</name><set>Death Knight</set></card>
+		<card><name id="doomsayer.png">Doomsayer</name><set>Neutral</set></card>
+		<card><name id="shatterstrike.png">Shatterstrike</name><set>Death Knight</set></card>
+		<card><name id="howlingblast.png">Howling Blast</name><set>Death Knight</set></card>
+		<card><name id="icecrownportal.png">Icecrown Portal</name><set>Death Knight</set></card>
+		<card><name id="bloodrune.png">Blood Rune</name><set>Death Knight</set></card>
+		<card><name id="plagueeruptor.png">Plague Eruptor</name><set>Death Knight</set></card>
+		<card><name id="ragnarosthefirelord.png">Ragnaros the Firelord</name><set>Neutral</set></card>
+	</superzone>
+</deck>

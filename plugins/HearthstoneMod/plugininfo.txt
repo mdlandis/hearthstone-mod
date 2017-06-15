@@ -1,0 +1,64 @@
+<plugin>
+<pluginversion>2.0</pluginversion>
+
+<pluginname>HearthstoneMod</pluginname>
+
+<plugin>
+<deckzone>
+     <label>Deck</label>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Deck</label>
+     <visibletoowner>no</visibletoowner>
+     <gamezonetoloadto>Hand</gamezonetoloadto>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Graveyard</label>
+     <visibletoowner>yes</visibletoowner>
+     <gamezonetoloadto>Graveyard</gamezonetoloadto>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Shufflezone</label>
+     <visibletoowner>yes</visibletoowner>
+     <gamezonetoloadto>Shufflezone</gamezonetoloadto>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<playerstat><label>Health</label><initialvalue>30</initialvalue></playerstat>
+<playerstat><label>Mana</label><initialvalue>0</initialvalue></playerstat>
+
+<generalfunction><label>Draw a card</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Shuffle into deck</label><kind>TRANSFERCARD</kind><sourceowner>performer</sourceowner><sourcegamezone>Shufflezone</sourcegamezone><sourceposition>top</sourceposition><destinationowner>performer</destinationowner><destinationgamezone>Deck</destinationgamezone><destinationposition>random</destinationposition><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Flip a coin</label><kind>FLIPCOIN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Spawn a card</label><kind>SPAWNCARD CARDNAME</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Roll a D6</label><kind>RollD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Roll a D4</label><kind>RollD4</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Flip Card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Add Damage counter</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>0</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Remove Damage counter</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>0</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Add Silence counter</label><kind>ADDCOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Remove Silence counter</label><kind>REMOVECOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Add Health counter</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>1</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Remove Health counter</label><kind>REMOVECOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>1</PositionX><PositionY>.04</PositionY></cardfunction>	
+<cardfunction><label>Clear Card</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
+<definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
+</plugin>

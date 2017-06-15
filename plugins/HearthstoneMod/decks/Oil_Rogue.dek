@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="backstab.png">Backstab</name><set>Rogue</set></card>
+		<card><name id="backstab.png">Backstab</name><set>Rogue</set></card>
+		<card><name id="preparation.png">Preparation</name><set>Rogue</set></card>
+		<card><name id="preparation.png">Preparation</name><set>Rogue</set></card>
+		<card><name id="deadlypoison.png">Deadly Poison</name><set>Rogue</set></card>
+		<card><name id="deadlypoison.png">Deadly Poison</name><set>Rogue</set></card>
+		<card><name id="southseadeckhand.png">Southsea Deckhand</name><set>Neutral</set></card>
+		<card><name id="bladeflurry.png">Blade Flurry</name><set>Rogue</set></card>
+		<card><name id="bladeflurry.png">Blade Flurry</name><set>Rogue</set></card>
+		<card><name id="eviscerate.png">Eviscerate</name><set>Rogue</set></card>
+		<card><name id="eviscerate.png">Eviscerate</name><set>Rogue</set></card>
+		<card><name id="sap.png">Sap</name><set>Rogue</set></card>
+		<card><name id="sap.png">Sap</name><set>Rogue</set></card>
+		<card><name id="bloodmagethalnos.png">Bloodmage Thalnos</name><set>Neutral</set></card>
+		<card><name id="fanofknives.png">Fan of Knives</name><set>Rogue</set></card>
+		<card><name id="fanofknives.png">Fan of Knives</name><set>Rogue</set></card>
+		<card><name id="earthenringfarseer.png">Earthen Ring Farseer</name><set>Neutral</set></card>
+		<card><name id="earthenringfarseer.png">Earthen Ring Farseer</name><set>Neutral</set></card>
+		<card><name id="si7agent.png">SI7 Agent</name><set>Rogue</set></card>
+		<card><name id="si7agent.png">SI7 Agent</name><set>Rogue</set></card>
+		<card><name id="tinkerssharpswordoil.png">Tinker&apos;s Sharpsword Oil</name><set>Rogue</set></card>
+		<card><name id="tinkerssharpswordoil.png">Tinker&apos;s Sharpsword Oil</name><set>Rogue</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+		<card><name id="violetteacher.png">Violet Teacher</name><set>Neutral</set></card>
+		<card><name id="violetteacher.png">Violet Teacher</name><set>Neutral</set></card>
+		<card><name id="azuredrake.png">Azure Drake</name><set>Neutral</set></card>
+		<card><name id="azuredrake.png">Azure Drake</name><set>Neutral</set></card>
+		<card><name id="emperorthaurissan.png">Emperor Thaurissan</name><set>Neutral</set></card>
+		<card><name id="sprint.png">Sprint</name><set>Rogue</set></card>
+		<card><name id="sprint.png">Sprint</name><set>Rogue</set></card>
+	</superzone>
+</deck>

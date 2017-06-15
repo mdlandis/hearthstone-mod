@@ -1,0 +1,1 @@
+<card><id>136</id><owner>PLAYER0</owner><x>-0.5</x><y>-0.5</y></card>

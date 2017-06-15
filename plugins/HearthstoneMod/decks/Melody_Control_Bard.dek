@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="lownote.png">Low Note</name><set>DKBard</set></card>
+		<card><name id="highnote.png">High Note</name><set>DKBard</set></card>
+		<card><name id="highnote.png">High Note</name><set>DKBard</set></card>
+		<card><name id="magicmic.png">Magic Mic</name><set>DKBard</set></card>
+		<card><name id="magicmic.png">Magic Mic</name><set>DKBard</set></card>
+		<card><name id="reverberate.png">Reverberate</name><set>DKBard</set></card>
+		<card><name id="reverberate.png">Reverberate</name><set>DKBard</set></card>
+		<card><name id="lament.png">Lament</name><set>DKBard</set></card>
+		<card><name id="kindlewoodviolinist.png">Kindlewood Violinist</name><set>DKBard</set></card>
+		<card><name id="kindlewoodviolinist.png">Kindlewood Violinist</name><set>DKBard</set></card>
+		<card><name id="doubletime.png">Double Time</name><set>DKBard</set></card>
+		<card><name id="choir.png">Choir</name><set>DKBard</set></card>
+		<card><name id="choir.png">Choir</name><set>DKBard</set></card>
+		<card><name id="angelcaller.png">Angelcaller</name><set>DKBard</set></card>
+		<card><name id="angelcaller.png">Angelcaller</name><set>DKBard</set></card>
+		<card><name id="halflingbard.png">Halfling bard</name><set>DKBard</set></card>
+		<card><name id="halflingbard.png">Halfling bard</name><set>DKBard</set></card>
+		<card><name id="elderwoodbard.png">Elderwood Bard</name><set>DKBard</set></card>
+		<card><name id="elderwoodbard.png">Elderwood Bard</name><set>DKBard</set></card>
+		<card><name id="justicartrueheart.png">Justicar Trueheart</name><set>Neutral</set></card>
+		<card><name id="dropthebass.png">Drop the Bass</name><set>DKBard</set></card>
+		<card><name id="dropthebass.png">Drop the Bass</name><set>DKBard</set></card>
+		<card><name id="drboom.png">Dr Boom</name><set>Neutral</set></card>
+		<card><name id="sylvanaswindrunner.png">Sylvanas Windrunner</name><set>Neutral</set></card>
+		<card><name id="biggamehunter.png">Big Game Hunter</name><set>Neutral</set></card>
+		<card><name id="sludgebelcher.png">Sludge Belcher</name><set>Neutral</set></card>
+		<card><name id="sludgebelcher.png">Sludge Belcher</name><set>Neutral</set></card>
+		<card><name id="electricguitarist.png">Electric Guitarist</name><set>DKBard</set></card>
+		<card><name id="electricguitarist.png">Electric Guitarist</name><set>DKBard</set></card>
+		<card><name id="debut.png">Debut</name><set>DKBard</set></card>
+	</superzone>
+</deck>

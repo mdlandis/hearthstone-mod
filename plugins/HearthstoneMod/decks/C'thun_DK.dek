@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="cthun.png">C&apos;Thun</name><set>Neutral</set></card>
+		<card><name id="beckonerofevil.png">Beckoner of Evil</name><set>Neutral</set></card>
+		<card><name id="beckonerofevil.png">Beckoner of Evil</name><set>Neutral</set></card>
+		<card><name id="discipleofcthun.png">Disciple of C&apos;Thun</name><set>Neutral</set></card>
+		<card><name id="discipleofcthun.png">Disciple of C&apos;Thun</name><set>Neutral</set></card>
+		<card><name id="frozenfanatic.png">Frozen Fanatic</name><set>Death Knight</set></card>
+		<card><name id="frozenfanatic.png">Frozen Fanatic</name><set>Death Knight</set></card>
+		<card><name id="seerofendlessice.png">Seer of Endless Ice</name><set>Death Knight</set></card>
+		<card><name id="seerofendlessice.png">Seer of Endless Ice</name><set>Death Knight</set></card>
+		<card><name id="sindragosa.png">Sindragosa</name><set>Death Knight</set></card>
+		<card><name id="glacialadvance.png">Glacial Advance</name><set>Death Knight</set></card>
+		<card><name id="glacialadvance.png">Glacial Advance</name><set>Death Knight</set></card>
+		<card><name id="shatterstrike.png">Shatterstrike</name><set>Death Knight</set></card>
+		<card><name id="remorselesswinter.png">Remorseless Winter</name><set>Death Knight</set></card>
+		<card><name id="remorselesswinter.png">Remorseless Winter</name><set>Death Knight</set></card>
+		<card><name id="doomsayer.png">Doomsayer</name><set>Neutral</set></card>
+		<card><name id="doomsayer.png">Doomsayer</name><set>Neutral</set></card>
+		<card><name id="dancingruneweapon.png">Dancing Rune Weapon</name><set>Death Knight</set></card>
+		<card><name id="dancingruneweapon.png">Dancing Rune Weapon</name><set>Death Knight</set></card>
+		<card><name id="gatheringstorm.png">Gathering Storm</name><set>Death Knight</set></card>
+		<card><name id="gatheringstorm.png">Gathering Storm</name><set>Death Knight</set></card>
+		<card><name id="frostwyrm.png">Frost Wyrm</name><set>Death Knight</set></card>
+		<card><name id="frostwyrm.png">Frost Wyrm</name><set>Death Knight</set></card>
+		<card><name id="frostrune.png">Frost Rune</name><set>Death Knight</set></card>
+		<card><name id="frostrune.png">Frost Rune</name><set>Death Knight</set></card>
+		<card><name id="darionmograine.png">Darion Mograine</name><set>Death Knight</set></card>
+		<card><name id="vrykulicebringer.png">Vrykul Icebringer</name><set>Death Knight</set></card>
+		<card><name id="vrykulicebringer.png">Vrykul Icebringer</name><set>Death Knight</set></card>
+		<card><name id="frostmourne.png">Frostmourne</name><set>Death Knight</set></card>
+		<card><name id="mistressofmixtures.png">Mistress of Mixtures</name><set>Neutral</set></card>
+	</superzone>
+</deck>

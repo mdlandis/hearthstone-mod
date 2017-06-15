@@ -1,0 +1,1127 @@
+Useful Lists
+2-mana minions: 67
+1	Acidic Swamp Ooze
+2	Amani Berserker
+3	Ancient Watcher
+4	Annoy-o-Tron
+5	Anodized Robo Cub
+6	Argent Protector
+7	Armorsmith
+8	Bloodfen Raptor
+9	Bloodmage Thalnos
+10	Bloodsail Raider
+11	Bluegill Warrior
+12	Captain's Parrot
+13	Crazed Alchemist
+14	Cruel Taskmaster
+15	Defias Ringleader
+16	Dire Wolf Alpha
+17	Doomsayer
+18	Echoing Ooze
+19	Explosive Sheep
+20	Faerie Dragon
+21	Flametongue Totem
+22	Frostwolf Grunt
+23	Gilblin Stalker
+24	Goblin Auto-Barber
+25	Haunted Creeper
+26	Ironbeak Owl
+27	Knife Juggler
+28	Kobold Geomancer
+29	Lightwell
+30	Loot Hoarder
+31	Lorewalker Cho
+32	Mad Bomber
+33	Mad Scientist
+34	Mana Addict
+35	Mana Wraith
+36	Master Swordsmith
+37	Mechwarper
+38	Micro Machine
+39	Millhouse Manastorm
+40	Mistress of Pain
+41	Murloc Tidehunter
+42	Nat Pagle
+43	Nerub'ar Weblord
+44	Nerubian Egg
+45	Novice Engineer
+46	One-eyed Cheat
+47	Patient Assassin
+48	Pint-Sized Summoner
+49	Puddlestomper
+50	Recombobulator
+51	River Crocolisk
+52	Scavenging Hyena
+53	Shadowboxer
+54	Shielded Minibot
+55	Ship's Cannon
+56	Shrinkmeister
+57	Snowchugger
+58	Sorcerer's Apprentice
+59	Steamwheedle Sniper
+60	Stonesplinter Trogg
+61	Succubus
+62	Sunfury Protector
+63	Unstable Ghoul
+64	Vitality Totem
+65	Whirling Zap-o-matic
+66	Wild Pyromancer
+67	Youthful Brewmaster
+4-mana minions: 57
+1	Windspeaker
+2	Wee Spellstopper
+3	Water Elemental
+4	Wailing Soul
+5	Voidcaller
+6	Violet Teacher
+7	Twilight Drake
+8	Summoning Portal
+9	Stormwind Knight
+10	Spellbreaker
+11	Silvermoon Guardian
+12	Siltfin Spiritwalker
+13	Sen'jin Shieldmasta
+14	Screwjank Clunker
+15	Pit Lord
+16	Piloted Shredder
+17	Old Murk-Eye
+18	Ogre Magi
+19	Oasis Snapjaw
+20	Mogu'shan Warden
+21	Mini-Mage
+22	Mechanical Yeti
+23	Master of Disguise
+24	Lost Tallstrider
+25	Lightspawn
+26	Kor'kron Elite
+27	Kezan Mystic
+28	Keeper of the Grove
+29	Jeeves
+30	Hungry Dragon
+31	Houndmaster
+32	Goblin Blastmage
+33	Gnomish Inventor
+34	Fireguard Destroyer
+35	Fel Cannon
+36	Ethereal Arcanist
+37	Enhance-o Mechano
+38	Dunemaul Shaman
+39	Dread Corsair
+40	Dragonling Mechanic
+41	Dragonkin Sorcerer
+42	Defender of Argus
+43	Dark Iron Dwarf
+44	Cult Master
+45	Core Rager
+46	Chillwind Yeti
+47	Burly Rockjaw Trogg
+48	Brewmaster
+49	Baron Rivendare
+50	Baine Bloodhoof
+51	Axe Flinger
+52	Auchenai Soulpriest
+53	Arcane Nullifier X-21
+54	Arathi Weaponsmith
+55	Anub'ar Ambusher
+56	Ancient Mage
+57	Ancient Brewmaster
+Legendary Minions: 53
+1	Deathwing
+2	Alexstrasza
+3	Cenarius
+4	King Krush
+5	Lord Jaraxxus
+6	Mal'Ganis
+7	Malygos
+8	Mekgineer Thermaplugg
+9	Nozdormu
+10	Onyxia
+11	Ysera
+12	Al'Akir the Windlord
+13	Foe Reaper 4000
+14	Grommash Hellscream
+15	Gruul
+16	Ragnaros the Firelord
+17	Sneed's Old Shredder
+18	Tirion Fordring
+19	Archmage Antonidas
+20	Baron Geddon
+21	Dr. Boom
+22	Flame Leviathan
+23	Gahz'rilla
+24	Malorne
+25	Neptulon
+26	Prophet Velen
+27	Troggzor the Earthinator
+28	Cairne Bloodhoof
+29	Gazlowe
+30	Hogger
+31	Illidan Stormrage
+32	Iron Juggernaut
+33	Mogor the Ogre
+34	Sylvanas Windrunner
+35	The Beast
+36	The Black Knight
+37	Toshley
+38	Trade Prince Gallywix
+39	Blingtron 3000
+40	Bolvar Fordragon
+41	Captain Greenskin
+42	Harrison Jones
+43	Hemet Nesingwary
+44	Leeroy Jenkins
+45	Mimiron's Head
+46	Vol'jin
+47	Edwin VanCleef
+48	King Mukla
+49	Tinkmaster Overspark
+50	Bloodmage Thalnos
+51	Lorewalker Cho
+52	Millhouse Manastorm
+53	Nat Pagle
+Spare Parts: 7
+1	Whirling Blades
+2	Reversing Switch
+3	Armor Plating
+4	Time Rewinder
+5	Rusty Horn
+6	Finicky Cloakfield
+7	Emergency Coolant
+Dream Cards: 5
+1	Nightmare
+2	Dream
+3	Ysera Awakens
+4	Laughing Sister
+5	Emerald Drake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

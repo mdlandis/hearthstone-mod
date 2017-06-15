@@ -1,0 +1,57 @@
+<save>
+<turn>3</turn>
+<player>
+<name>harsh criticism bird</name>
+<seat>0</seat>
+<zone0>
+<visibleto>harsh criticism bird</visibleto>
+<card><id>189</id><owner>harsh criticism bird</owner></card>
+<card><id>1544</id><owner>harsh criticism bird</owner></card>
+<card><id>891</id><owner>harsh criticism bird</owner></card>
+<card><id>570</id><owner>harsh criticism bird</owner></card>
+<card><id>196</id><owner>harsh criticism bird</owner></card>
+</zone0>
+<zone1>
+<card><id>1239</id><owner>harsh criticism bird</owner></card>
+<card><id>1123</id><owner>harsh criticism bird</owner></card>
+<card><id>891</id><owner>harsh criticism bird</owner></card>
+<card><id>1424</id><owner>harsh criticism bird</owner></card>
+<card><id>104</id><owner>harsh criticism bird</owner></card>
+<card><id>1254</id><owner>harsh criticism bird</owner></card>
+<card><id>1239</id><owner>harsh criticism bird</owner></card>
+<card><id>1424</id><owner>harsh criticism bird</owner></card>
+<card><id>1295</id><owner>harsh criticism bird</owner></card>
+<card><id>1544</id><owner>harsh criticism bird</owner></card>
+<card><id>1254</id><owner>harsh criticism bird</owner></card>
+<card><id>1512</id><owner>harsh criticism bird</owner></card>
+<card><id>318</id><owner>harsh criticism bird</owner></card>
+<card><id>982</id><owner>harsh criticism bird</owner></card>
+<card><id>570</id><owner>harsh criticism bird</owner></card>
+<card><id>1431</id><owner>harsh criticism bird</owner></card>
+<card><id>1512</id><owner>harsh criticism bird</owner></card>
+<card><id>318</id><owner>harsh criticism bird</owner></card>
+<card><id>1134</id><owner>harsh criticism bird</owner></card>
+<card><id>1295</id><owner>harsh criticism bird</owner></card>
+<card><id>104</id><owner>harsh criticism bird</owner></card>
+<card><id>1235</id><owner>harsh criticism bird</owner></card>
+<card><id>1123</id><owner>harsh criticism bird</owner></card>
+<card><id>982</id><owner>harsh criticism bird</owner></card>
+<card><id>1235</id><owner>harsh criticism bird</owner></card>
+<card><id>1431</id><owner>harsh criticism bird</owner></card>
+</zone1>
+<zone2>
+<visibleto>harsh criticism bird</visibleto>
+</zone2>
+<zone3>
+<visibleto>harsh criticism bird</visibleto>
+</zone3>
+</player>
+<player>
+<name>Muhframos</name>
+<seat>1</seat>
+</player>
+<table>
+<card><id>715</id><owner>harsh criticism bird</owner><x>0.84</x><y>-0.45</y></card>
+<card><id>1497</id><owner>harsh criticism bird</owner><x>0.54</x><y>-0.48</y></card>
+</table>
+</save>

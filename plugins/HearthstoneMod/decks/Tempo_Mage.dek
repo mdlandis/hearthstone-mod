@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>MonkHSv3</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="arcanemissiles.png">Arcane Missiles</name><set>Mage</set></card>
+		<card><name id="manawyrm.png">Mana Wyrm</name><set>Mage</set></card>
+		<card><name id="manawyrm.png">Mana Wyrm</name><set>Mage</set></card>
+		<card><name id="flamecannon.png">Flamecannon</name><set>Mage</set></card>
+		<card><name id="flamewaker.png">Flamewaker</name><set>Mage</set></card>
+		<card><name id="flamewaker.png">Flamewaker</name><set>Mage</set></card>
+		<card><name id="frostbolt.png">Frostbolt</name><set>Mage</set></card>
+		<card><name id="frostbolt.png">Frostbolt</name><set>Mage</set></card>
+		<card><name id="unstableportal.png">Unstable Portal</name><set>Mage</set></card>
+		<card><name id="unstableportal.png">Unstable Portal</name><set>Mage</set></card>
+		<card><name id="madscientist.png">Mad Scientist</name><set>Neutral</set></card>
+		<card><name id="madscientist.png">Mad Scientist</name><set>Neutral</set></card>
+		<card><name id="sorcerersapprentice.png">Sorcerer&apos;s Apprentice</name><set>Mage</set></card>
+		<card><name id="sorcerersapprentice.png">Sorcerer&apos;s Apprentice</name><set>Mage</set></card>
+		<card><name id="counterspell.png">Counterspell</name><set>Mage</set></card>
+		<card><name id="mirrorentity.png">Mirror Entity</name><set>Mage</set></card>
+		<card><name id="mirrorentity.png">Mirror Entity</name><set>Mage</set></card>
+		<card><name id="fireball.png">Fireball</name><set>Mage</set></card>
+		<card><name id="fireball.png">Fireball</name><set>Mage</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+		<card><name id="azuredrake.png">Azure Drake</name><set>Neutral</set></card>
+		<card><name id="azuredrake.png">Azure Drake</name><set>Neutral</set></card>
+		<card><name id="loatheb.png">Loatheb</name><set>Neutral</set></card>
+		<card><name id="sludgebelcher.png">Sludge Belcher</name><set>Neutral</set></card>
+		<card><name id="sludgebelcher.png">Sludge Belcher</name><set>Neutral</set></card>
+		<card><name id="sylvanaswindrunner.png">Sylvanas Windrunner</name><set>Neutral</set></card>
+		<card><name id="drboom.png">Dr Boom</name><set>Neutral</set></card>
+		<card><name id="ragnarosthefirelord.png">Ragnaros the Firelord</name><set>Neutral</set></card>
+		<card><name id="flamestrike.png">Flamestrike</name><set>Mage</set></card>
+	</superzone>
+</deck>

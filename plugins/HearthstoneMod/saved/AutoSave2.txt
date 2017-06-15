@@ -1,0 +1,118 @@
+<save>
+<turn>11</turn>
+<player>
+<name>harsh criticism bird</name>
+<seat>0</seat>
+<playerstats>
+<Mana>6</Mana>
+</playerstats>
+<zone0>
+<visibleto>harsh criticism bird</visibleto>
+<card><id>516</id><owner>harsh criticism bird</owner></card>
+<card><id>641</id><owner>harsh criticism bird</owner></card>
+<card><id>1125</id><owner>harsh criticism bird</owner></card>
+<card><id>1412</id><owner>harsh criticism bird</owner></card>
+<card><id>787</id><owner>harsh criticism bird</owner></card>
+</zone0>
+<zone1>
+<card><id>617</id><owner>harsh criticism bird</owner></card>
+<card><id>910</id><owner>harsh criticism bird</owner></card>
+<card><id>1338</id><owner>harsh criticism bird</owner></card>
+<card><id>1586</id><owner>harsh criticism bird</owner></card>
+<card><id>239</id><owner>harsh criticism bird</owner></card>
+<card><id>1380</id><owner>harsh criticism bird</owner></card>
+<card><id>1593</id><owner>harsh criticism bird</owner></card>
+<card><id>999</id><owner>harsh criticism bird</owner></card>
+<card><id>555</id><owner>harsh criticism bird</owner></card>
+<card><id>1271</id><owner>harsh criticism bird</owner></card>
+<card><id>701</id><owner>harsh criticism bird</owner></card>
+<card><id>1552</id><owner>harsh criticism bird</owner></card>
+<card><id>413</id><owner>harsh criticism bird</owner></card>
+<card><id>1381</id><owner>harsh criticism bird</owner></card>
+<card><id>514</id><owner>harsh criticism bird</owner></card>
+<card><id>694</id><owner>harsh criticism bird</owner></card>
+<card><id>489</id><owner>harsh criticism bird</owner></card>
+<card><id>1252</id><owner>harsh criticism bird</owner></card>
+<card><id>1067</id><owner>harsh criticism bird</owner></card>
+<card><id>423</id><owner>harsh criticism bird</owner></card>
+<card><id>340</id><owner>harsh criticism bird</owner></card>
+</zone1>
+<zone2>
+<visibleto>harsh criticism bird</visibleto>
+<visibleto>Muhframos</visibleto>
+<card><id>211</id><owner>harsh criticism bird</owner></card>
+<card><id>618</id><owner>harsh criticism bird</owner></card>
+<card><id>116</id><owner>harsh criticism bird</owner></card>
+<card><id>1668</id><owner>harsh criticism bird</owner></card>
+<card><id>1099</id><owner>harsh criticism bird</owner></card>
+<card><id>1106</id><owner>harsh criticism bird</owner></card>
+<card><id>980</id><owner>harsh criticism bird</owner></card>
+</zone2>
+<zone3>
+<visibleto>harsh criticism bird</visibleto>
+</zone3>
+</player>
+<player>
+<name>Muhframos</name>
+<seat>1</seat>
+<playerstats>
+<Health>29</Health>
+<Mana>5</Mana>
+</playerstats>
+<zone0>
+<visibleto>Muhframos</visibleto>
+<card><id>1359</id><owner>Muhframos</owner></card>
+<card><id>315</id><owner>Muhframos</owner></card>
+<card><id>1017</id><owner>Muhframos</owner></card>
+<card><id>244</id><owner>Muhframos</owner></card>
+<card><id>316</id><owner>Muhframos</owner></card>
+<card><id>316</id><owner>Muhframos</owner></card>
+</zone0>
+<zone1>
+<card><id>330</id><owner>Muhframos</owner></card>
+<card><id>244</id><owner>Muhframos</owner></card>
+<card><id>1017</id><owner>Muhframos</owner></card>
+<card><id>1541</id><owner>Muhframos</owner></card>
+<card><id>721</id><owner>Muhframos</owner></card>
+<card><id>635</id><owner>Muhframos</owner></card>
+<card><id>330</id><owner>Muhframos</owner></card>
+<card><id>318</id><owner>Muhframos</owner></card>
+<card><id>145</id><owner>Muhframos</owner></card>
+<card><id>962</id><owner>Muhframos</owner></card>
+<card><id>57</id><owner>Muhframos</owner></card>
+<card><id>667</id><owner>Muhframos</owner></card>
+<card><id>635</id><owner>Muhframos</owner></card>
+<card><id>667</id><owner>Muhframos</owner></card>
+<card><id>721</id><owner>Muhframos</owner></card>
+<card><id>965</id><owner>Muhframos</owner></card>
+<card><id>318</id><owner>Muhframos</owner></card>
+<card><id>1542</id><owner>Muhframos</owner></card>
+<card><id>145</id><owner>Muhframos</owner></card>
+<card><id>57</id><owner>Muhframos</owner></card>
+</zone1>
+<zone2>
+<visibleto>Muhframos</visibleto>
+<visibleto>harsh criticism bird</visibleto>
+<card><id>211</id><owner>Muhframos</owner></card>
+<card><id>1541</id><owner>Muhframos</owner></card>
+<card><id>315</id><owner>Muhframos</owner></card>
+<card><id>1541</id><owner>Muhframos</owner></card>
+<card><id>898</id><owner>Muhframos</owner></card>
+<card><id>898</id><owner>Muhframos</owner></card>
+<card><id>316</id><owner>Muhframos</owner></card>
+<card><id>962</id><owner>Muhframos</owner></card>
+</zone2>
+<zone3>
+<visibleto>Muhframos</visibleto>
+</zone3>
+</player>
+<table>
+<card><id>1543</id><owner>Muhframos</owner><x>0.6</x><y>0.45</y></card>
+<card><id>1035</id><owner>Muhframos</owner><x>0.84</x><y>0.51</y></card>
+<card><id>782</id><owner>harsh criticism bird</owner><isturnedover>1</isturnedover><x>0.84</x><y>-0.45</y></card>
+<card><id>1668</id><owner>harsh criticism bird</owner><x>0.63</x><y>-0.45</y></card>
+<card><id>669</id><owner>harsh criticism bird</owner><y>-0.48</y></card>
+<card><id>965</id><owner>Muhframos</owner><y>0.48</y></card>
+<card><id>651</id><owner>harsh criticism bird</owner><x>-0.18</x><y>-0.24</y></card>
+</table>
+</save>

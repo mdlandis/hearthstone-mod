@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="bloodrune.png">Blood Rune</name><set>Death Knight</set></card>
+		<card><name id="bloodrune.png">Blood Rune</name><set>Death Knight</set></card>
+		<card><name id="unholyrune.png">Unholy Rune</name><set>Death Knight</set></card>
+		<card><name id="unholyrune.png">Unholy Rune</name><set>Death Knight</set></card>
+		<card><name id="archerusruneguard.png">Archerus Runeguard</name><set>Death Knight</set></card>
+		<card><name id="archerusruneguard.png">Archerus Runeguard</name><set>Death Knight</set></card>
+		<card><name id="plaguedog.png">Plague Dog</name><set>Death Knight</set></card>
+		<card><name id="plaguedog.png">Plague Dog</name><set>Death Knight</set></card>
+		<card><name id="embraltheunmaker.png">Embral the Unmaker</name><set>Death Knight</set></card>
+		<card><name id="bloodelemental.png">Blood Elemental</name><set>Death Knight</set></card>
+		<card><name id="bloodelemental.png">Blood Elemental</name><set>Death Knight</set></card>
+		<card><name id="deathspeakerzealot.png">Deathspeaker Zealot</name><set>Death Knight</set></card>
+		<card><name id="deathspeakerzealot.png">Deathspeaker Zealot</name><set>Death Knight</set></card>
+		<card><name id="theomegarune.png">The Omega Rune</name><set>Death Knight</set></card>
+		<card><name id="cratercultist.png">Crater Cultist</name><set>Death Knight</set></card>
+		<card><name id="cratercultist.png">Crater Cultist</name><set>Death Knight</set></card>
+		<card><name id="ancientruneblade.png">Ancient Runeblade</name><set>Death Knight</set></card>
+		<card><name id="ancientruneblade.png">Ancient Runeblade</name><set>Death Knight</set></card>
+		<card><name id="howlingblast.png">Howling Blast</name><set>Death Knight</set></card>
+		<card><name id="howlingblast.png">Howling Blast</name><set>Death Knight</set></card>
+		<card><name id="gatheringstorm.png">Gathering Storm</name><set>Death Knight</set></card>
+		<card><name id="gatheringstorm.png">Gathering Storm</name><set>Death Knight</set></card>
+		<card><name id="deathrune.png">Death Rune</name><set>Death Knight</set></card>
+		<card><name id="deathrune.png">Death Rune</name><set>Death Knight</set></card>
+		<card><name id="enchantedgreataxe.png">Enchanted Greataxe</name><set>Death Knight</set></card>
+		<card><name id="enchantedgreataxe.png">Enchanted Greataxe</name><set>Death Knight</set></card>
+		<card><name id="soulblade.png">Soulblade</name><set>Death Knight</set></card>
+		<card><name id="soulblade.png">Soulblade</name><set>Death Knight</set></card>
+		<card><name id="loothoarder.png">Loot Hoarder</name><set>Neutral</set></card>
+		<card><name id="loothoarder.png">Loot Hoarder</name><set>Neutral</set></card>
+	</superzone>
+</deck>

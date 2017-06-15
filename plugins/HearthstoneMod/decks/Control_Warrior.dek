@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>MonkHSv3</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="execute.png">Execute</name><set>Warrior</set></card>
+		<card><name id="execute.png">Execute</name><set>Warrior</set></card>
+		<card><name id="shieldslam.png">Shield Slam</name><set>Warrior</set></card>
+		<card><name id="shieldslam.png">Shield Slam</name><set>Warrior</set></card>
+		<card><name id="armorsmith.png">Armorsmith</name><set>Warrior</set></card>
+		<card><name id="armorsmith.png">Armorsmith</name><set>Warrior</set></card>
+		<card><name id="crueltaskmaster.png">Cruel Taskmaster</name><set>Warrior</set></card>
+		<card><name id="crueltaskmaster.png">Cruel Taskmaster</name><set>Warrior</set></card>
+		<card><name id="fierywaraxe.png">Fiery War Axe</name><set>Warrior</set></card>
+		<card><name id="fierywaraxe.png">Fiery War Axe</name><set>Warrior</set></card>
+		<card><name id="ironbeakowl.png">Ironbeak Owl</name><set>Neutral</set></card>
+		<card><name id="acolyteofpain.png">Acolyte of Pain</name><set>Neutral</set></card>
+		<card><name id="acolyteofpain.png">Acolyte of Pain</name><set>Neutral</set></card>
+		<card><name id="biggamehunter.png">Big Game Hunter</name><set>Neutral</set></card>
+		<card><name id="shieldblock.png">Shield Block</name><set>Warrior</set></card>
+		<card><name id="shieldblock.png">Shield Block</name><set>Warrior</set></card>
+		<card><name id="deathsbite.png">Death&apos;s Bite</name><set>Warrior</set></card>
+		<card><name id="deathsbite.png">Death&apos;s Bite</name><set>Warrior</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+		<card><name id="brawl.png">Brawl</name><set>Warrior</set></card>
+		<card><name id="sludgebelcher.png">Sludge Belcher</name><set>Neutral</set></card>
+		<card><name id="sludgebelcher.png">Sludge Belcher</name><set>Neutral</set></card>
+		<card><name id="shieldmaiden.png">Shieldmaiden</name><set>Warrior</set></card>
+		<card><name id="shieldmaiden.png">Shieldmaiden</name><set>Warrior</set></card>
+		<card><name id="sylvanaswindrunner.png">Sylvanas Windrunner</name><set>Neutral</set></card>
+		<card><name id="drboom.png">Dr Boom</name><set>Neutral</set></card>
+		<card><name id="grommashhellscream.png">Grommash Hellscream</name><set>Warrior</set></card>
+		<card><name id="alexstrasza.png">Alexstrasza</name><set>Neutral</set></card>
+		<card><name id="ysera.png">Ysera</name><set>Neutral</set></card>
+		<card><name id="loatheb.png">Loatheb</name><set>Neutral</set></card>
+	</superzone>
+</deck>

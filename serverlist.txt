@@ -1,0 +1,1 @@
+NAME:	Lackey Server (BETA)	WANIP:	24.2.244.32	LANIP:	10.0.0.6	PORT:	25711	ONLINESINCE:	2012:11:19:13:58:46	INFO:	This is the official server for LackeyCCG.
