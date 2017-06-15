@@ -1775,3 +1775,4 @@ Flesh Giant	Neutral	fleshgiant.png
 Gravedigger	Neutral	gravedigger.png
 Icebreaker	Neutral	icebreaker.png
 Blood Queen Lana'thel	Neutral	bloodqueenlanathel.png
+Collect Essence	Bug	collectessence.png

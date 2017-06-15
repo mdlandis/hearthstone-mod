@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="broodspawn.png">Broodspawn</name><set>Bug</set></card>
+		<card><name id="broodspawn.png">Broodspawn</name><set>Bug</set></card>
+		<card><name id="flyonthewall.png">Fly on the Wall</name><set>Bug</set></card>
+		<card><name id="flyonthewall.png">Fly on the Wall</name><set>Bug</set></card>
+		<card><name id="giantcocoon.png">Giant Cocoon</name><set>Bug</set></card>
+		<card><name id="giantcocoon.png">Giant Cocoon</name><set>Bug</set></card>
+		<card><name id="hivemind.png">Hive Mind</name><set>Bug</set></card>
+		<card><name id="hivemind.png">Hive Mind</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="mantisguard.png">Mantis Guard</name><set>Bug</set></card>
+		<card><name id="mantisguard.png">Mantis Guard</name><set>Bug</set></card>
+		<card><name id="nurseryoverseer.png">Nursery Overseer</name><set>Bug</set></card>
+		<card><name id="seeder.png">Seeder</name><set>Bug</set></card>
+		<card><name id="seeder.png">Seeder</name><set>Bug</set></card>
+		<card><name id="servant.png">Serv-Ant</name><set>Bug</set></card>
+		<card><name id="servant.png">Serv-Ant</name><set>Bug</set></card>
+		<card><name id="spearstinger.png">Spear Stinger</name><set>Bug</set></card>
+		<card><name id="spearstinger.png">Spear Stinger</name><set>Bug</set></card>
+		<card><name id="spiderswarm.png">Spider Swarm</name><set>Bug</set></card>
+		<card><name id="spiderswarm.png">Spider Swarm</name><set>Bug</set></card>
+		<card><name id="taintedscarab.png">Tainted Scarab</name><set>Bug</set></card>
+		<card><name id="taintedscarab.png">Tainted Scarab</name><set>Bug</set></card>
+		<card><name id="teamwork.png">Teamwork</name><set>Bug</set></card>
+		<card><name id="torchbugvermancer.png">Torchbug Vermancer</name><set>Bug</set></card>
+		<card><name id="torchbugvermancer.png">Torchbug Vermancer</name><set>Bug</set></card>
+		<card><name id="tenaciousbeetle.png">Tenacious Beetle</name><set>Bug</set></card>
+		<card><name id="tenaciousbeetle.png">Tenacious Beetle</name><set>Bug</set></card>
+		<card><name id="armoredcarapace.png">Armored Carapace</name><set>Bug</set></card>
+		<card><name id="qirajiguardian.png">Qiraji Guardian</name><set>Bug</set></card>
+	</superzone>
+</deck>

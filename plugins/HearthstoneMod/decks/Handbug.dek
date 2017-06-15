@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="mountaingiant.png">Mountain Giant</name><set>Neutral</set></card>
+		<card><name id="mountaingiant.png">Mountain Giant</name><set>Neutral</set></card>
+		<card><name id="twilightdrake.png">Twilight Drake</name><set>Neutral</set></card>
+		<card><name id="twilightdrake.png">Twilight Drake</name><set>Neutral</set></card>
+		<card><name id="bugcollector.png">Bug Collector</name><set>Bug</set></card>
+		<card><name id="bugcollector.png">Bug Collector</name><set>Bug</set></card>
+		<card><name id="cannonsoftheh1v3.png">Cannons of the H1V3</name><set>Bug</set></card>
+		<card><name id="armoredcarapace.png">Armored Carapace</name><set>Bug</set></card>
+		<card><name id="armoredcarapace.png">Armored Carapace</name><set>Bug</set></card>
+		<card><name id="dinnertime.png">Dinner Time</name><set>Bug</set></card>
+		<card><name id="dinnertime.png">Dinner Time</name><set>Bug</set></card>
+		<card><name id="h1v3.png">H1V3</name><set>Bug</set></card>
+		<card><name id="hivemind.png">Hive Mind</name><set>Bug</set></card>
+		<card><name id="killerbee.png">Killer Bee</name><set>Bug</set></card>
+		<card><name id="killerbee.png">Killer Bee</name><set>Bug</set></card>
+		<card><name id="masshatching.png">Mass Hatching</name><set>Bug</set></card>
+		<card><name id="nurseryoverseer.png">Nursery Overseer</name><set>Bug</set></card>
+		<card><name id="nurseryoverseer.png">Nursery Overseer</name><set>Bug</set></card>
+		<card><name id="protectthehive.png">Protect the Hive</name><set>Bug</set></card>
+		<card><name id="stingoperation.png">Sting Operation</name><set>Bug</set></card>
+		<card><name id="stingoperation.png">Sting Operation</name><set>Bug</set></card>
+		<card><name id="webwrap.png">Web Wrap</name><set>Bug</set></card>
+		<card><name id="webwrap.png">Web Wrap</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="parasites.png">Parasites</name><set>Bug</set></card>
+		<card><name id="antiquehealbot.png">Antique Healbot</name><set>Neutral</set></card>
+		<card><name id="antiquehealbot.png">Antique Healbot</name><set>Neutral</set></card>
+		<card><name id="refreshmentvendor.png">Refreshment Vendor</name><set>Neutral</set></card>
+		<card><name id="refreshmentvendor.png">Refreshment Vendor</name><set>Neutral</set></card>
+	</superzone>
+</deck>
