@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="collectessence.png">Collect Essence</name><set>Bug</set></card>
+		<card><name id="pantryspider.png">Pantry Spider</name><set>Neutral</set></card>
+		<card><name id="bilefintidehunter.png">Bilefin Tidehunter</name><set>Neutral</set></card>
+		<card><name id="bilefintidehunter.png">Bilefin Tidehunter</name><set>Neutral</set></card>
+		<card><name id="doppelgangster.png">Doppelgangster</name><set>Neutral</set></card>
+		<card><name id="drboom.png">Dr Boom</name><set>Neutral</set></card>
+		<card><name id="armoredcarapace.png">Armored Carapace</name><set>Bug</set></card>
+		<card><name id="armoredcarapace.png">Armored Carapace</name><set>Bug</set></card>
+		<card><name id="beesquad.png">Bee Squad</name><set>Bug</set></card>
+		<card><name id="broodmothernarvina.png">Broodmother Narvina</name><set>Bug</set></card>
+		<card><name id="broodspawn.png">Broodspawn</name><set>Bug</set></card>
+		<card><name id="broodspawn.png">Broodspawn</name><set>Bug</set></card>
+		<card><name id="dinnertime.png">Dinner Time</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="killerbee.png">Killer Bee</name><set>Bug</set></card>
+		<card><name id="killerbee.png">Killer Bee</name><set>Bug</set></card>
+		<card><name id="nurseryoverseer.png">Nursery Overseer</name><set>Bug</set></card>
+		<card><name id="parasites.png">Parasites</name><set>Bug</set></card>
+		<card><name id="parasites.png">Parasites</name><set>Bug</set></card>
+		<card><name id="spiderswarm.png">Spider Swarm</name><set>Bug</set></card>
+		<card><name id="spiderswarm.png">Spider Swarm</name><set>Bug</set></card>
+		<card><name id="sporespreader.png">Sporespreader</name><set>Bug</set></card>
+		<card><name id="sporespreader.png">Sporespreader</name><set>Bug</set></card>
+		<card><name id="w45p.png">W45P</name><set>Bug</set></card>
+		<card><name id="poisonfangs.png">Poison Fangs</name><set>Bug</set></card>
+		<card><name id="hauntedcreeper.png">Haunted Creeper</name><set>Neutral</set></card>
+		<card><name id="hauntedcreeper.png">Haunted Creeper</name><set>Neutral</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+	</superzone>
+</deck>

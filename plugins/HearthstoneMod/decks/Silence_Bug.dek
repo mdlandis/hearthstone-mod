@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="wailingsoul.png">Wailing Soul</name><set>Neutral</set></card>
+		<card><name id="wailingsoul.png">Wailing Soul</name><set>Neutral</set></card>
+		<card><name id="spellbreaker.png">Spellbreaker</name><set>Neutral</set></card>
+		<card><name id="spellbreaker.png">Spellbreaker</name><set>Neutral</set></card>
+		<card><name id="ironbeakowl.png">Ironbeak Owl</name><set>Neutral</set></card>
+		<card><name id="ironbeakowl.png">Ironbeak Owl</name><set>Neutral</set></card>
+		<card><name id="humongousrazorleaf.png">Humongous Razorleaf</name><set>Neutral</set></card>
+		<card><name id="humongousrazorleaf.png">Humongous Razorleaf</name><set>Neutral</set></card>
+		<card><name id="layeggs.png">Lay Eggs</name><set>Bug</set></card>
+		<card><name id="layeggs.png">Lay Eggs</name><set>Bug</set></card>
+		<card><name id="barnes.png">Barnes</name><set>Neutral</set></card>
+		<card><name id="icehowl.png">Icehowl</name><set>Neutral</set></card>
+		<card><name id="beetrasher.png">Bee-Trasher</name><set>Bug</set></card>
+		<card><name id="beetrasher.png">Bee-Trasher</name><set>Bug</set></card>
+		<card><name id="breedinggrounds.png">Breeding Grounds</name><set>Bug</set></card>
+		<card><name id="broodspawn.png">Broodspawn</name><set>Bug</set></card>
+		<card><name id="broodspawn.png">Broodspawn</name><set>Bug</set></card>
+		<card><name id="cannonsoftheh1v3.png">Cannons of the H1V3</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="infestedmurloc.png">Infested Murloc</name><set>Bug</set></card>
+		<card><name id="killerbee.png">Killer Bee</name><set>Bug</set></card>
+		<card><name id="killerbee.png">Killer Bee</name><set>Bug</set></card>
+		<card><name id="dinnertime.png">Dinner Time</name><set>Bug</set></card>
+		<card><name id="dinnertime.png">Dinner Time</name><set>Bug</set></card>
+		<card><name id="webwrap.png">Web Wrap</name><set>Bug</set></card>
+		<card><name id="webwrap.png">Web Wrap</name><set>Bug</set></card>
+		<card><name id="swampleech.png">Swamp Leech</name><set>Bug</set></card>
+		<card><name id="swampleech.png">Swamp Leech</name><set>Bug</set></card>
+		<card><name id="spiderswarm.png">Spider Swarm</name><set>Bug</set></card>
+		<card><name id="spiderswarm.png">Spider Swarm</name><set>Bug</set></card>
+	</superzone>
+</deck>
