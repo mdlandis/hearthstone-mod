@@ -23,8 +23,8 @@
 <canned>/draw6</canned>
 <canned>/draw8</canned>
 <canned>Good game.</canned>
-<tokens>Zeong Head</tokens>
 <tokens>Core Fighter</tokens>
+<tokens>Zeong Head</tokens>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>times.ttf</fontkind0pos1>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
@@ -56,6 +56,5 @@
 <scalefactor>2.540000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
-<tilt>11.000000</tilt>
 
 </pluginpreferences>

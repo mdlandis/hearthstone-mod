@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="thecavernsbelow.png">The Caverns Below</name><set>Rogue</set></card>
+		<card><name id="firefly.png">Fire Fly</name><set>Neutral</set></card>
+		<card><name id="firefly.png">Fire Fly</name><set>Neutral</set></card>
+		<card><name id="igneouselemental.png">Igneous Elemental</name><set>Neutral</set></card>
+		<card><name id="igneouselemental.png">Igneous Elemental</name><set>Neutral</set></card>
+		<card><name id="preparation.png">Preparation</name><set>Rogue</set></card>
+		<card><name id="preparation.png">Preparation</name><set>Rogue</set></card>
+		<card><name id="shadowstep.png">Shadowstep</name><set>Rogue</set></card>
+		<card><name id="shadowstep.png">Shadowstep</name><set>Rogue</set></card>
+		<card><name id="mimicpod.png">Mimic Pod</name><set>Rogue</set></card>
+		<card><name id="mimicpod.png">Mimic Pod</name><set>Rogue</set></card>
+		<card><name id="vanish.png">Vanish</name><set>Rogue</set></card>
+		<card><name id="vanish.png">Vanish</name><set>Rogue</set></card>
+		<card><name id="glacialshard.png">Glacial Shard</name><set>Neutral</set></card>
+		<card><name id="glacialshard.png">Glacial Shard</name><set>Neutral</set></card>
+		<card><name id="southseadeckhand.png">Southsea Deckhand</name><set>Neutral</set></card>
+		<card><name id="southseadeckhand.png">Southsea Deckhand</name><set>Neutral</set></card>
+		<card><name id="stonetuskboar.png">Stonetusk Boar</name><set>Neutral</set></card>
+		<card><name id="stonetuskboar.png">Stonetusk Boar</name><set>Neutral</set></card>
+		<card><name id="bilefintidehunter.png">Bilefin Tidehunter</name><set>Neutral</set></card>
+		<card><name id="bilefintidehunter.png">Bilefin Tidehunter</name><set>Neutral</set></card>
+		<card><name id="tarcreeper.png">Tar Creeper</name><set>Neutral</set></card>
+		<card><name id="tolvirstoneshaper.png">Tol&apos;vir Stoneshaper</name><set>Neutral</set></card>
+		<card><name id="youthfulbrewmaster.png">Youthful Brewmaster</name><set>Neutral</set></card>
+		<card><name id="youthfulbrewmaster.png">Youthful Brewmaster</name><set>Neutral</set></card>
+		<card><name id="noviceengineer.png">Novice Engineer</name><set>Neutral</set></card>
+		<card><name id="noviceengineer.png">Novice Engineer</name><set>Neutral</set></card>
+		<card><name id="patchesthepirate.png">Patches the Pirate</name><set>Neutral</set></card>
+		<card><name id="gadgetzanferryman.png">Gadgetzan Ferryman</name><set>Rogue</set></card>
+		<card><name id="gadgetzanferryman.png">Gadgetzan Ferryman</name><set>Rogue</set></card>
+	</superzone>
+</deck>

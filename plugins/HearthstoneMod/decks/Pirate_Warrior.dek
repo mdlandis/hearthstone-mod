@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="patchesthepirate.png">Patches the Pirate</name><set>Neutral</set></card>
+		<card><name id="southseacaptain.png">Southsea Captain</name><set>Neutral</set></card>
+		<card><name id="southseacaptain.png">Southsea Captain</name><set>Neutral</set></card>
+		<card><name id="southseadeckhand.png">Southsea Deckhand</name><set>Neutral</set></card>
+		<card><name id="southseadeckhand.png">Southsea Deckhand</name><set>Neutral</set></card>
+		<card><name id="bloodsailraider.png">Bloodsail Raider</name><set>Neutral</set></card>
+		<card><name id="bloodsailraider.png">Bloodsail Raider</name><set>Neutral</set></card>
+		<card><name id="dreadcorsair.png">Dread Corsair</name><set>Neutral</set></card>
+		<card><name id="dreadcorsair.png">Dread Corsair</name><set>Neutral</set></card>
+		<card><name id="nagacorsair.png">Naga Corsair</name><set>Neutral</set></card>
+		<card><name id="nagacorsair.png">Naga Corsair</name><set>Neutral</set></card>
+		<card><name id="leeroyjenkins.png">Leeroy Jenkins</name><set>Neutral</set></card>
+		<card><name id="nzothsfirstmate.png">N&apos;Zoth&apos;s First Mate</name><set>Warrior</set></card>
+		<card><name id="nzothsfirstmate.png">N&apos;Zoth&apos;s First Mate</name><set>Warrior</set></card>
+		<card><name id="upgrade.png">Upgrade</name><set>Warrior</set></card>
+		<card><name id="upgrade.png">Upgrade</name><set>Warrior</set></card>
+		<card><name id="korkronelite.png">Kor&apos;kron Elite</name><set>Warrior</set></card>
+		<card><name id="korkronelite.png">Kor&apos;kron Elite</name><set>Warrior</set></card>
+		<card><name id="mortalstrike.png">Mortal Strike</name><set>Warrior</set></card>
+		<card><name id="mortalstrike.png">Mortal Strike</name><set>Warrior</set></card>
+		<card><name id="arcanitereaper.png">Arcanite Reaper</name><set>Warrior</set></card>
+		<card><name id="arcanitereaper.png">Arcanite Reaper</name><set>Warrior</set></card>
+		<card><name id="bloodsailcultist.png">Bloodsail Cultist</name><set>Warrior</set></card>
+		<card><name id="bloodsailcultist.png">Bloodsail Cultist</name><set>Warrior</set></card>
+		<card><name id="fierywaraxe.png">Fiery War Axe</name><set>Warrior</set></card>
+		<card><name id="fierywaraxe.png">Fiery War Axe</name><set>Warrior</set></card>
+		<card><name id="heroicstrike.png">Heroic Strike</name><set>Warrior</set></card>
+		<card><name id="heroicstrike.png">Heroic Strike</name><set>Warrior</set></card>
+		<card><name id="frothingberserker.png">Frothing Berserker</name><set>Warrior</set></card>
+		<card><name id="frothingberserker.png">Frothing Berserker</name><set>Warrior</set></card>
+	</superzone>
+</deck>
