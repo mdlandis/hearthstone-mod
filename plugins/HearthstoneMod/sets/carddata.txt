@@ -1761,3 +1761,17 @@ Kindly Grandmother	Hunter	kindlygrandmother.png
 Maelstrom Portal	Shaman	maelstromportal.png
 Spirit Claws	Shaman	spiritclaws.png
 Wicked Witchdoctor	Shaman	wickedwitchdoctor.png
+Northrend Ghoul	Neutral	northrendghoul.png
+Otherworldly Seer	Neutral	otherworldlyseer.png
+Scourge COmmander	Neutral	scourgecommander.png
+Failed Experiment	Neutral	failedexperiment.png
+Scarlet Battlemage	Neutral	scarletbattlemage.png
+Argent Defender	Neutral	argentdefender.png
+Twilight Cryomancer	Neutral	twilightcryomancer.png
+Darkfallen Knight	Neutral	darkfallenknight.png
+Lich	Token	lich.png
+Damned Cultist	Neutral	damnedcultist.png
+Flesh Giant	Neutral	fleshgiant.png
+Gravedigger	Neutral	gravedigger.png
+Icebreaker	Neutral	icebreaker.png
+Blood Queen Lana'thel	Neutral	bloodqueenlanathel.png
