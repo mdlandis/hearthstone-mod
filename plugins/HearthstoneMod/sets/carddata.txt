@@ -1250,7 +1250,7 @@ Infestor	Bug	infestor.png
 Megamoth	Bug	megamoth.png
 Poison Fangs	Bug	poisonfangs.png
 Nursery Overseer	Bug	nurseryoverseer.png
-Spider	Bug	spider.png
+Big Spider	Bug	spider.png
 Abera Swarm Evolver	Bug	aberaswarmevolver.png
 Fly on the Wall	Bug	flyonthewall.png
 Sting Operation	Bug	stingoperation.png
