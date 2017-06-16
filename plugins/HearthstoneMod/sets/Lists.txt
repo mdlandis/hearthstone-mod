@@ -933,7 +933,7 @@ Taunt Minions (NEUTRAL) (WILD): 54
 53Ozruk	
 54Tar Creeper	
 	
-Taunt Minions (PALADIN): 4
+Taunt Minions (PALADIN): 70
 
 1Twilight Guardian	
 2Tournament Attendee	
@@ -994,14 +994,14 @@ Taunt Minions (PALADIN): 4
 63 64 65 66 Tirion Fordring
 67 68 69 70 Sunkeeper Tarim
 
-Basic Totems:
+Basic Totems: 4
 
 1 Healing Totem
 2 Stoneclaw Totem
 3 Searing Totem
 4 Wrath of Air Totem
 
-Druid Spells (WILD):
+Druid Spells (WILD): 40
 
 1Tree of Life
 2Wisps of the Old Gods
@@ -1044,7 +1044,7 @@ Druid Spells (WILD):
 39Innervate
 40Moonfire
 
-Druid Spells (STANDARD):
+Druid Spells (STANDARD):32
 
 1Wisps of the Old Gods
 2Moonglade Portal
@@ -1079,7 +1079,7 @@ Druid Spells (STANDARD):
 31Innervate
 32Moonfire	
 
-Druid Minions (WILD):
+Druid Minions (WILD): 42
 
 1Kun the Forgotten King
 2Tyrantus
@@ -1124,9 +1124,158 @@ Druid Minions (WILD):
 41Enchanted Raven
 42Forbidden Ancient
 
+5-Cost Minions (STANDARD):
 
+1Abomination
+2Alley Armorsmith
+3Avian Watcher
+4Big Game Hunter
+5Bittertide Hydra
+6Bomb Squad
+7Booty Bay Bodyguard
+8Burgly Bully
+9Captain Greenskin
+10Corrupted Healbot
+11Crazed Worshipper
+12Cryomancer
+13Cult Apothecary
+14Darkscale Healer
+15Darkshire Alchemist
+16Darkspeaker
+17Direhorn Hatchling
+18Doomguard
+19Doppelgangster
+20Drakonid Operative
+21Druid of the Claw
+22Earth Elemental
+23Elise the Trailblazer
+24Ethereal Peddler
+25Faceless Manipulator
+26Fen Creeper
+27Finja, the Flying Star
+28Frostwolf Warlord
+29Grimestreet Enforcer
+30Grook Fu Master
+31Gurubashi Berserker
+32Hallazeal the Ascended
+33Harrison Jones
+34Kabal Songstealer
+35Knuckles
+36Leeroy Jenkins
+37Lotus Agents
+38Lotus Assassin
+39Lyra the Sunshard
+40Menagerie Magician
+41Nesting Roc
+42Nightblade
+43Onyx Bishop
+44Prince Malchezaar
+45Princess Huhuran
+46Psych-o-Tron
+47Raza the Chained
+48Red Mana Wyrm
+49Second-Rate Bruiser
+50Servant of Kalimos
+51Servant of Yogg-Saron
+52Shadowcaster
+53Silver Hand Knight
+54Spiked Hogrider
+55Spiteful Smith
+56Stampeding Kodo
+57Starving Buzzard
+58Stormpike Commando
+59Stranglethorn Tiger
+60Streetwise Investigator
+61Tar Lurker
+62Tol'vir Warden
+63Tundra Rhino
+64Twilight Darkmender
+65Usher of Souls
+66Validated Doomsayer
+67Venture Co. Mercenary
+68Verdant Longneck
+69Vilespine Slayer
+70Virmen Sensei
+71White Eyes
 
+Beasts (STANDARD):
 
+1Tyrantus
+2Ultrasaur
+3Giant Mastodon
+4King Krush
+5King Mosh
+6Charged Devilsaur
+7Giant Sand Worm
+8Core Hound
+9Giant Anaconda
+10Grotesque Dragonhawk
+11Sated Threshadon
+12Swamp King Dred
+13Volcanosaur
+14Mukla, Tyrant of the Vale
+15Ornery Direhorn
+16Sabretooth Stalker
+17Savannah Highmane
+18The Beast
+19Bittertide Hydra
+20Direhorn Hatchling
+21Knuckles
+22Nesting Roc
+23Princess Huhuran
+24Stampeding Kodo
+25Starving Buzzard
+26Stranglethorn Tiger
+27Tundra Rhino
+28Verdant Longneck
+29Dispatch Kodo
+30Gentle Megasaur
+31Infested Wolf
+32Lightfused Stegodon
+33Oasis Snapjaw
+34Ravenous Pterrordax
+35Stegodon
+36Addled Grizzly
+37Carrion Grub
+38Chittering Tunneler
+39Elder Longneck
+40Emperor Cobra
+41Giant Wasp
+42Ironbeak Owl
+43Ironfur Grizzly
+44Jungle Panther
+45King Mukla
+46Pantry Spider
+47Pterrordax Hatchling
+48Rat Pack
+49Silithid Swarmer
+50Silverback Patriarch
+51Thunder Lizard
+52Vicious Fledgling
+53Bloodfen Raptor
+54Clutchmother Zavas
+55Crackling Razormaw
+56Dire Wolf Alpha
+57Duskboar
+58Golakka Crawler
+59Kindly Grandmother
+60Ravasaur Runt
+61River Crocolisk
+62Scavenging Hyena
+63Stubborn Gastropod
+64Alleycat
+65Angry Chicken
+66Emerald Hive Queen
+67Emerald Reaver
+68Enchanted Raven
+69Fiery Bat
+70Hungry Crab
+71Jeweled Macaw
+72Raptor Hatchling
+73Stonetusk Boar
+74Timber Wolf
+75Weasel Tunneler
+76Young Dragonhawk
 
 
 
