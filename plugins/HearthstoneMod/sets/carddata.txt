@@ -1773,6 +1773,7 @@ Lich	Token	lich.png
 Damned Cultist	Neutral	damnedcultist.png
 Flesh Giant	Neutral	fleshgiant.png
 Gravedigger	Neutral	gravedigger.png
+Professor Putricide	Neutral	professorputricide.png
 Icebreaker	Neutral	icebreaker.png
 Blood Queen Lana'thel	Neutral	bloodqueenlanathel.png
 Collect Essence	Bug	collectessence.png
