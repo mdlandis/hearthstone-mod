@@ -10,7 +10,6 @@
 		<card><name id="doppelgangster.png">Doppelgangster</name><set>Neutral</set></card>
 		<card><name id="drboom.png">Dr Boom</name><set>Neutral</set></card>
 		<card><name id="armoredcarapace.png">Armored Carapace</name><set>Bug</set></card>
-		<card><name id="armoredcarapace.png">Armored Carapace</name><set>Bug</set></card>
 		<card><name id="beesquad.png">Bee Squad</name><set>Bug</set></card>
 		<card><name id="broodmothernarvina.png">Broodmother Narvina</name><set>Bug</set></card>
 		<card><name id="broodspawn.png">Broodspawn</name><set>Bug</set></card>
@@ -27,11 +26,12 @@
 		<card><name id="spiderswarm.png">Spider Swarm</name><set>Bug</set></card>
 		<card><name id="sporespreader.png">Sporespreader</name><set>Bug</set></card>
 		<card><name id="sporespreader.png">Sporespreader</name><set>Bug</set></card>
-		<card><name id="w45p.png">W45P</name><set>Bug</set></card>
 		<card><name id="poisonfangs.png">Poison Fangs</name><set>Bug</set></card>
 		<card><name id="hauntedcreeper.png">Haunted Creeper</name><set>Neutral</set></card>
 		<card><name id="hauntedcreeper.png">Haunted Creeper</name><set>Neutral</set></card>
 		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
 		<card><name id="pilotedshredder.png">Piloted Shredder</name><set>Neutral</set></card>
+		<card><name id="fleshgiant.png">Flesh Giant</name><set>Neutral</set></card>
+		<card><name id="fleshgiant.png">Flesh Giant</name><set>Neutral</set></card>
 	</superzone>
 </deck>

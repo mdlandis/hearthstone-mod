@@ -1,5 +1,5 @@
-RECENTDECK0:Silence_Bug.dek
-RECENTDECK1:Quest_Bug.dek
+RECENTDECK0:Quest_Bug.dek
+RECENTDECK1:Silence_Bug.dek
 RECENTDECK2:Handbug.dek
 RECENTDECK3:Common_Bug.dek
 RECENTDECK4:Quest_Rogue.dek
