@@ -193,29 +193,936 @@ Dream Cards: 5
 3	Ysera Awakens
 4	Laughing Sister
 5	Emerald Drake
+Adaptations: 10
+1	Crackling Shield
+2	Flaming Claws
+3	Lightning Speed
+4	Liquid Membrane
+5	Living Spores
+6	Massive
+7	Poison Spit
+8	Rocky Carapace
+9	Shrouding Mist
+10	Volcanic Might
+Spells (All Classes) (STANDARD): 256
+	
+1 DOOM!	
+2Mind Control	
+3Pyroblast	
+4Call of the Wild	
+5Dinosize
+6Free From Amber
+7Lay on Hands
+8Twisting Nether	
+9Firelands Portal
+10Flamestrike
+11Greater Arcane Missiles
+12Sprint	
+13Wisps of the Old Gods
+14Avenging Wrath	
+15Blizzard	
+16Dragonfire Potion
+17Felfire Potion
+18Holy Fire	
+19Meteor
+20Moonglade Portal
+21Siphon Soul	
+22Spikeridged Steed	
+23Starfire	
+24Thistle Tea	
+25Vanish
+26Assassinate	
+27Bane of Doom	
+28Blessed Champion	
+29Bloodlust
+30Brawl	
+31Cabalist's Tome	
+32Explosive Shot
+33Feeding Time
+34Force of Nature	
+35Holy Nova
+36Holy Wrath
+37Ironforge Portal
+38Kara Kazham!
+39Living Mana
+40Lunar Visions	
+41Nourish	
+42Power Word: Tentacles	
+43Stand Against Darkness
+44Starfall
+45Sudden Genesis
+46Volcano	
+47Bite	
+48Blade Flurry
+49Blastcrystal Potion
+50Blessing of Kings
+51Call in the Finishers
+52Cone of Cold
+53Consecration
+54Evolving Spores	
+55Fireball
+56Greater Healing Potion
+57Hammer of Wrath
+58Hellfire
+59Jade Lightning
+60Mass Dispel
+61Mindgames
+62Molten Reflection
+63Mortal Strike
+64Multi-Shot
+65Polymorph
+66Shadow Madness
+67Shadow Word: Horror
+68Shadowflame
+69Silvermoon Portal
+70Soul of the Forest
+71Swipe
+72Tidal Surge	
+73Animal Companion
+74Arcane Intellect
+75Blood Warriors
+76Bloodfury Potion
+77Counterspell
+78Deadly Shot
+79Divine Favor
+80Drain Life
+81Envenom Weapon
+82Fan of Knives
+83Far Sight
+84Feral Rage
+85Feral Spirit
+86Frost Nova
+87Headcrack
+88Healing Touch
+89Hex	
+90Ice Barrier
+91Ice Block	
+92Infest
+93Jade Blossom	
+94Kill Command	
+95Lava Burst	
+96Lightning Storm	
+97Mana Bind	
+98Mark of Nature	
+99Mimic Pod	 
+100Mirror Entity	
+101Pilfered Power		
+102Potion of Polymorph		
+103Protect the King!		
+104Savage Roar		
+105Sense Demons		
+106Shadow Bolt		
+107Shadow Strike		
+108Shadow Word: Death		
+109Shadowform		
+110Shield Block		
+111Small-Time Recruits		
+112Spellbender		
+113Spirit Echo		
+114Spreading Madness		
+115Thoughtsteal		
+116Unleash the Hounds		
+117Vaporize		
+118Volcanic Potion		
+119A Light in the Darkness		
+120Ancestral Spirit		
+121Arcane Explosion		
+122Battle Rage		
+123Betrayal		
+124Bloodbloom		
+125Cat Trick		
+126Cleave		
+127Commanding Shout		
+128Corrupting Mist		
+129Demonfire		
+130Devolve		
+131Dinomancy		
+132Divine Spirit		
+133Embrace the Shadow		
+134Equality		
+135Eviscerate		
+136Execute		
+137Explore Un'Goro		
+138Explosive Trap		
+139Flame Geyser		
+140Flare		
+141Freezing Trap		
+142Frostbolt		
+143Grievous Bite		
+144Heroic Strike		
+145Hidden Cache		
+146Holy Light		
+147Jade Shuriken		
+148Maelstrom Portal		
+149Mark of the Wild		
+150Mark of Y'Shaarj		
+151Mind Blast		
+152Misdirection		
+153Power of the Wild		
+154Primordial Glyph		
+155Purify		
+156Rampage		
+157Razorpetal Volley		
+158Renounce Darkness		
+159Rockbiter Weapon		
+160Sap		
+161Shadow Visions		
+162Shadow Word: Pain		
+163Shatter		
+164Shiv		
+165Slam		
+166Sleep with the Fishes		
+167Snake Trap		
+168Snipe		
+169Stolen Goods		
+170Stormcrack		
+171Wild Growth		
+172Windfury		
+173Wrath		
+174Adaptation		
+175Arcane Missiles		
+176Arcane Shot		
+177Awaken the Makers		
+178Bestial Wrath		
+179Binding Heal		
+180Blessing of Might		
+181Blessing of Wisdom		
+182Blood To Ichor		
+183Charge		
+184Claw		
+185Cold Blood		
+186Corruption		
+187Deadly Poison		
+188Divine Strength		
+189Earth Shock		
+190Earthen Scales		
+191Evolve		
+192Eye for an Eye		
+193Finders Keepers		
+194Fire Plume's Heart		
+195Forked Lightning		
+196Frost Shock		
+197Getaway Kodo		
+198Hallucination		
+199Hand of Protection		
+200Holy Smite		
+201Humility
+202Hunter's Mark
+203I Know a Guy
+204Inner Fire
+205Iron Hide
+206Jade Idol
+207Journey Below
+208Jungle Giants
+209Lakkari Sacrifice
+210Lightning Bolt
+211Lost in the Jungle
+212Mark of the Lotus
+213Mind Vision
+214Mirror Image
+215Mortal Coil
+216Naturalize
+217Noble Sacrifice
+218On the Hunt
+219Open the Waygate
+220Pint-Size Potion
+221Potion of Madness
+222Power Word: Shield
+223Primal Fusion
+224Redemption
+225Repentance
+226Savagery
+227Shield Slam
+228Sinister Strike
+229Smuggler's Crate
+230Smuggler's Run
+231Soulfire
+232Stampede
+233The Caverns Below
+234The Last Kaleidosaur
+235The Marsh Queen
+236Tracking
+237Unite the Murlocs
+238Upgrade!
+239Whirlwind
+240Ancestral Healing
+241Backstab
+242Circle of Healing
+243Counterfeit Coin
+244Forbidden Flame
+245Forbidden Healing
+246Forbidden Ritual
+247Forbidden Shaping
+248Freezing Potion
+249Inner Rage
+250Innervate
+251Moonfire
+252Preparation
+253Sacrificial Pact
+254Shadowstep
+255Silence
+256Totemic Might
 
+Spells (All Classes)(WILD):328
 
+1 DOOM!	
+2Mind Control	
+3Pyroblast	
+4Call of the Wild	
+5Dinosize
+6Free From Amber
+7Lay on Hands
+8Twisting Nether	
+9Firelands Portal
+10Flamestrike
+11Greater Arcane Missiles
+12Sprint	
+13Wisps of the Old Gods
+14Avenging Wrath	
+15Blizzard	
+16Dragonfire Potion
+17Felfire Potion
+18Holy Fire	
+19Meteor
+20Moonglade Portal
+21Siphon Soul	
+22Spikeridged Steed	
+23Starfire	
+24Thistle Tea	
+25Vanish
+26Assassinate	
+27Bane of Doom	
+28Blessed Champion	
+29Bloodlust
+30Brawl	
+31Cabalist's Tome	
+32Explosive Shot
+33Feeding Time
+34Force of Nature	
+35Holy Nova
+36Holy Wrath
+37Ironforge Portal
+38Kara Kazham!
+39Living Mana
+40Lunar Visions	
+41Nourish	
+42Power Word: Tentacles	
+43Stand Against Darkness
+44Starfall
+45Sudden Genesis
+46Volcano	
+47Bite	
+48Blade Flurry
+49Blastcrystal Potion
+50Blessing of Kings
+51Call in the Finishers
+52Cone of Cold
+53Consecration
+54Evolving Spores	
+55Fireball
+56Greater Healing Potion
+57Hammer of Wrath
+58Hellfire
+59Jade Lightning
+60Mass Dispel
+61Mindgames
+62Molten Reflection
+63Mortal Strike
+64Multi-Shot
+65Polymorph
+66Shadow Madness
+67Shadow Word: Horror
+68Shadowflame
+69Silvermoon Portal
+70Soul of the Forest
+71Swipe
+72Tidal Surge	
+73Animal Companion
+74Arcane Intellect
+75Blood Warriors
+76Bloodfury Potion
+77Counterspell
+78Deadly Shot
+79Divine Favor
+80Drain Life
+81Envenom Weapon
+82Fan of Knives
+83Far Sight
+84Feral Rage
+85Feral Spirit
+86Frost Nova
+87Headcrack
+88Healing Touch
+89Hex	
+90Ice Barrier
+91Ice Block	
+92Infest
+93Jade Blossom	
+94Kill Command	
+95Lava Burst	
+96Lightning Storm	
+97Mana Bind	
+98Mark of Nature	
+99Mimic Pod	 
+100Mirror Entity	
+101Pilfered Power		
+102Potion of Polymorph		
+103Protect the King!		
+104Savage Roar		
+105Sense Demons		
+106Shadow Bolt		
+107Shadow Strike		
+108Shadow Word: Death		
+109Shadowform		
+110Shield Block		
+111Small-Time Recruits		
+112Spellbender		
+113Spirit Echo		
+114Spreading Madness		
+115Thoughtsteal		
+116Unleash the Hounds		
+117Vaporize		
+118Volcanic Potion		
+119A Light in the Darkness		
+120Ancestral Spirit		
+121Arcane Explosion		
+122Battle Rage		
+123Betrayal		
+124Bloodbloom		
+125Cat Trick		
+126Cleave		
+127Commanding Shout		
+128Corrupting Mist		
+129Demonfire		
+130Devolve		
+131Dinomancy		
+132Divine Spirit		
+133Embrace the Shadow		
+134Equality		
+135Eviscerate		
+136Execute		
+137Explore Un'Goro		
+138Explosive Trap		
+139Flame Geyser		
+140Flare		
+141Freezing Trap		
+142Frostbolt		
+143Grievous Bite		
+144Heroic Strike		
+145Hidden Cache		
+146Holy Light		
+147Jade Shuriken		
+148Maelstrom Portal		
+149Mark of the Wild		
+150Mark of Y'Shaarj		
+151Mind Blast		
+152Misdirection		
+153Power of the Wild		
+154Primordial Glyph		
+155Purify		
+156Rampage		
+157Razorpetal Volley		
+158Renounce Darkness		
+159Rockbiter Weapon		
+160Sap		
+161Shadow Visions		
+162Shadow Word: Pain		
+163Shatter		
+164Shiv		
+165Slam		
+166Sleep with the Fishes		
+167Snake Trap		
+168Snipe		
+169Stolen Goods		
+170Stormcrack		
+171Wild Growth		
+172Windfury		
+173Wrath		
+174Adaptation		
+175Arcane Missiles		
+176Arcane Shot		
+177Awaken the Makers		
+178Bestial Wrath		
+179Binding Heal		
+180Blessing of Might		
+181Blessing of Wisdom		
+182Blood To Ichor		
+183Charge		
+184Claw		
+185Cold Blood		
+186Corruption		
+187Deadly Poison		
+188Divine Strength		
+189Earth Shock		
+190Earthen Scales		
+191Evolve		
+192Eye for an Eye		
+193Finders Keepers		
+194Fire Plume's Heart		
+195Forked Lightning		
+196Frost Shock		
+197Getaway Kodo		
+198Hallucination		
+199Hand of Protection		
+200Holy Smite		
+201Humility
+202Hunter's Mark
+203I Know a Guy
+204Inner Fire
+205Iron Hide
+206Jade Idol
+207Journey Below
+208Jungle Giants
+209Lakkari Sacrifice
+210Lightning Bolt
+211Lost in the Jungle
+212Mark of the Lotus
+213Mind Vision
+214Mirror Image
+215Mortal Coil
+216Naturalize
+217Noble Sacrifice
+218On the Hunt
+219Open the Waygate
+220Pint-Size Potion
+221Potion of Madness
+222Power Word: Shield
+223Primal Fusion
+224Redemption
+225Repentance
+226Savagery
+227Shield Slam
+228Sinister Strike
+229Smuggler's Crate
+230Smuggler's Run
+231Soulfire
+232Stampede
+233The Caverns Below
+234The Last Kaleidosaur
+235The Marsh Queen
+236Tracking
+237Unite the Murlocs
+238Upgrade!
+239Whirlwind
+240Ancestral Healing
+241Backstab
+242Circle of Healing
+243Counterfeit Coin
+244Forbidden Flame
+245Forbidden Healing
+246Forbidden Ritual
+247Forbidden Shaping
+248Freezing Potion
+249Inner Rage
+250Innervate
+251Moonfire
+252Preparation
+253Sacrificial Pact
+254Shadowstep
+255Silence
+256Totemic Might
+257Tree of Life	
+258Crush	
+259Dark Wispers	
+260Lightbomb	
+261Recycle	
+262Cobra Shot	
+263Demonheart	
+264Ancestor's Call	
+265Echo of Medivh	
+266Imp-losion	
+267Sabotage	
+268Tinker's Sharpsword Oil	
+269Bouncing Blade	
+270Muster for Battle	
+271Velen's Chosen	
+272Call Pet	
+273Crackle	
+274Darkbomb	
+275Feign Death	
+276Flamecannon	
+277Seal of Light	
+278Unstable Portal	
+279Light of the Naaru	
+280Dragon's Breath		
+281Solemn Vigil		
+282Demonwrath		
+283Gang Up		
+284Lava Shock		
+285Quick Shot		
+286Resurrect		
+287Revenge		
+288Poison Seeds	
+289Duplicate	
+290Reincarnate	
+291Avenge	
+292Anyfin Can Happen	
+293Everyfin is Awesome	
+294Entomb	
+295Excavated Evil	
+296Forgotten Torch	
+297Curse of Rafaam	
+298Dart Trap	
+299Explorer's Hat	
+300Raven Idol	
+301Sacred Trial	
+302Ball of Spiders	
+303Dark Bargain	
+304Enter the Coliseum	
+305Flame Lance	
+306Astral Communion	
+307Fist of Jaraxxus	
+308Bash	
+309Beneath the Grounds	
+310Burgle	
+311Effigy	
+312Elemental Destruction	
+313Healing Wave	
+314Mulch	
+315Polymorph: Boar	
+316Powershot	
+317Seal of Champions	
+318Ancestral Knowledge	
+319Bear Trap	
+320Bolster	
+321Confuse	
+322Convert	
+323Demonfuse	
+324Lock and Load	
+325Arcane Blast	
+326Competitive Spirit	
+326Flash Heal	
+327Living Roots	
+328Power Word: Glory	
 
+Mage Spells (STANDARD):32
 
+1Pyroblast	
+2Firelands Portal	
+3Flamestrike	
+4Greater Arcane Missiles	
+5Blizzard	
+6Meteor	
+7Cabalist's Tome	
+8Cone of Cold	
+9Fireball	
+10Molten Reflection	
+11Polymorph	
+12Arcane Intellect	
+13Counterspell	
+14Frost Nova	
+15Ice Barrier	
+16Ice Block	
+17Mana Bind	
+18Mirror Entity	
+19Potion of Polymorph	
+20Spellbender	
+21Vaporize	
+22Volcanic Potion	
+23Arcane Explosion	
+24Flame Geyser	
+25Frostbolt	
+26Primordial Glyph	
+27Shatter	
+28Arcane Missiles	
+29Mirror Image	
+30Open the Waygate	
+31Forbidden Flame	
+32Freezing Potion	
 
+Mage Spells (WILD):
 
+1Pyroblast	
+2Firelands Portal	
+3Flamestrike	
+4Greater Arcane Missiles	
+5Blizzard	
+6Meteor	
+7Cabalist's Tome	
+8Dragon's Breath	
+9Flame Lance	
+10Cone of Cold	
+11Echo of Medivh	
+12Fireball	
+13Molten Reflection	
+14Polymorph	
+15Arcane Intellect	
+16Counterspell	
+17Duplicate	
+18Effigy	
+19Forgotten Torch	
+20Frost Nova	
+21Ice Barrier	
+22Ice Block	
+23Mana Bind	
+24Mirror Entity	
+25Polymorph: Boar	
+26Potion of Polymorph	
+27Spellbender	
+28Vaporize	
+29Volcanic Potion	
+30Arcane Explosion	
+31Flame Geyser	
+32Flamecannon	
+33Frostbolt	
+34Primordial Glyph	
+35Shatter	
+36Unstable Portal	
+37Arcane Blast	
+38Arcane Missiles	
+39Ice Lance	
+40Mirror Image	
+41Open the Waygate	
+42Forbidden Flame	
+43Freezing Potion
 
+Taunt Minions (NEUTRAL) (WILD): 54
 
+1Twilight Guardian	
+2Tournament Attendee	
+3Master Jouster	
+4Evil Heckler	
+5Chillmaw	
+6Second-Rate Bruiser	
+7Hired Gun		
+8Dirty Rat	
+9Wrathion	
+10Ancient of Blossoms	
+11Goldshire Footman	
+12Fen Creeper	
+13Frostwolf Grunt	
+14Ironfur Grizzly	
+15Silverback Patriarch	
+16Lord of the Arena	
+17Sen'jin Shieldmasta	
+18Booty Bay Bodyguard		
+19Sunwalker			
+20Abomination	
+21Tauren Warrior	
+22Mogu'shan Warden	
+23Shieldbearer	
+24Deathlord	
+25Sludge Belcher	
+26Unstable Ghoul	
+27Annoy-o-Tron	
+28Arcane Nullifier X-21	
+29Target Dummy	
+30Lil' Exorcist	
+31Gnomeregan Infantry		
+32Pompous Thespian		
+33The Curator	
+34Arcanosmith	
+35Dread Corsair	
+36Hogger	
+37Twin Emperor Vek'lor	
+38Psych-o-Tron	
+39Bog Creeper	
+40Bilefin Tidehunter	
+41Faceless Shambler	
+42Infested Tauren	
+43Twilight Geomancer	
+44Crazed Worshipper	
+45Squirming Tentacle	
+46Cyclopian Horror	
+47Soggoth the Slitherer	
+48Giant Mastodon	
+49Stonehill Defender	
+50Stubborn Gastropod	
+51Stegodon	
+52Primordial Drake	
+53Ozruk	
+54Tar Creeper	
+	
+Taunt Minions (PALADIN): 4
 
+1Twilight Guardian	
+2Tournament Attendee	
+3Master Jouster	
+4Evil Heckler	
+5Chillmaw	
+6Second-Rate Bruiser	
+7Hired Gun		
+8Dirty Rat	
+9Wrathion	
+10Ancient of Blossoms	
+11Goldshire Footman	
+12Fen Creeper	
+13Frostwolf Grunt	
+14Ironfur Grizzly	
+15Silverback Patriarch	
+16Lord of the Arena	
+17Sen'jin Shieldmasta	
+18Booty Bay Bodyguard		
+19Sunwalker			
+20Abomination	
+21Tauren Warrior	
+22Mogu'shan Warden	
+23Shieldbearer	
+24Deathlord	
+25Sludge Belcher	
+26Unstable Ghoul	
+27Annoy-o-Tron	
+28Arcane Nullifier X-21	
+29Target Dummy	
+30Lil' Exorcist	
+31Gnomeregan Infantry		
+32Pompous Thespian		
+33The Curator	
+34Arcanosmith	
+35Dread Corsair	
+36Hogger	
+37Twin Emperor Vek'lor	
+38Psych-o-Tron	
+39Bog Creeper	
+40Bilefin Tidehunter	
+41Faceless Shambler	
+42Infested Tauren	
+43Twilight Geomancer	
+44Crazed Worshipper	
+45Squirming Tentacle	
+46Cyclopian Horror	
+47Soggoth the Slitherer	
+48Giant Mastodon	
+49Stonehill Defender	
+50Stubborn Gastropod	
+51Stegodon	
+52Primordial Drake	
+53Ozruk	
+54Tar Creeper	
+55 56 57 58 Grimestreet Protector
+59 60 61 62 Wickerflame Burnbristle
+63 64 65 66 Tirion Fordring
+67 68 69 70 Sunkeeper Tarim
 
+Basic Totems:
 
+1 Healing Totem
+2 Stoneclaw Totem
+3 Searing Totem
+4 Wrath of Air Totem
 
+Druid Spells (WILD):
 
+1Tree of Life
+2Wisps of the Old Gods
+3Dark Wispers
+4Moonglade Portal
+5Recycle
+6Starfire
+7Force of Nature
+8Living Mana
+9Lunar Visions
+10Nourish
+11Starfall
+12Astral Communion
+13Bite
+14Evolving Spores
+15Poison Seeds
+16Soul of the Forest
+17Swipe
+18Feral Rage
+19Healing Touch
+20Jade Blossom
+21Mark of Nature
+22Mulch
+23Pilfered Power
+24Savage Roar
+25Mark of the Wild
+26Mark of Y'Shaarj
+27Power of the Wild
+28Wild Growth
+29Wrath
+30Claw
+31Earthen Scales
+32Jade Idol
+33Jungle Giants
+34Living Roots
+35Mark of the Lotus
+36Naturalize
+37Raven Idol
+38Savagery
+39Innervate
+40Moonfire
 
+Druid Spells (STANDARD):
 
+1Wisps of the Old Gods
+2Moonglade Portal
+3Starfire
+4Force of Nature
+5Living Mana
+6Lunar Visions
+7Nourish
+8Starfall
+9Bite
+10Evolving Spores
+11Soul of the Forest
+12Swipe
+13Feral Rage
+14Healing Touch
+15Jade Blossom
+16Mark of Nature
+17Pilfered Power
+18Savage Roar
+19Mark of the Wild
+20Mark of Y'Shaarj
+21Power of the Wild
+22Wild Growth
+23Wrath
+24Claw
+25Earthen Scales
+26Jade Idol
+27Jungle Giants
+28Mark of the Lotus
+29Naturalize
+30Savagery
+31Innervate
+32Moonfire	
 
+Druid Minions (WILD):
 
-
-
-
-
-
-
+1Kun the Forgotten King
+2Tyrantus
+3Aviana
+4Cenarius
+5Volcanic Lumberer
+6Ironbark Protector
+7Ancient of Lore
+8Ancient of War
+9Giant Anaconda
+10Knight of the Wild
+11Malorne
+12Aya Blackpaw
+13Dark Arakkoa
+14Jade Behemoth
+15Mech-Bear-Cat
+16Menagerie Warden
+17Druid of the Claw
+18Druid of the Fang
+19Lotus Agents
+20Verdant Longneck
+21Virmen Sensei
+22Fandral Staghelm
+23Jade Spirit
+24Jungle Moonkin
+25Keeper of the Grove
+26Klaxxi Amber-Weaver
+27Mire Keeper
+28Savage Combatant
+29Shellshifter
+30Wildwalker
+31Addled Grizzly
+32Celestial Dreamer
+33Druid of the Flame
+34Elder Longneck
+35Grove Tender
+36Mounted Raptor
+37Anodized Robo Cub
+38Darnassus Aspirant
+39Druid of the Saber
+40Tortollan Forager
+41Enchanted Raven
+42Forbidden Ancient
 
 
 
