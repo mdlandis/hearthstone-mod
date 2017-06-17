@@ -1778,4 +1778,6 @@ Icebreaker	Neutral	icebreaker.png
 Blood Queen Lana'thel	Neutral	bloodqueenlanathel.png
 Collect Essence	Bug	collectessence.png
 Dekka the Primal	Bug	dekkatheprimal.png
+Phreomones	Bug	pheromones.png
+Ravenous Insectoid	Bug	ravenousinsectoid.png
 Puregill	Neutral	puregill.png
