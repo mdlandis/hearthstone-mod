@@ -1781,3 +1781,5 @@ Dekka the Primal	Bug	dekkatheprimal.png
 Phreomones	Bug	pheromones.png
 Ravenous Insectoid	Bug	ravenousinsectoid.png
 Puregill	Neutral	puregill.png
+Defend the Gates	Paladin	defendthegates.png
+The Dude	Token	thedude.png
