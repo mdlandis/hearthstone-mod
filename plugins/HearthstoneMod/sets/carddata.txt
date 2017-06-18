@@ -1783,3 +1783,49 @@ Ravenous Insectoid	Bug	ravenousinsectoid.png
 Puregill	Neutral	puregill.png
 Defend the Gates	Paladin	defendthegates.png
 The Dude	Token	thedude.png
+Ravage	Warrior	ravage.png
+Flesh Golem	Warrior	fleshgolem.png
+Taskmaster's Lash	Warrior	taskmasterslash.png
+Imp-ending Doom	Warlock	impendingdoom.png
+Vilefin Corruptor	Warlock	vilefincorruptor.png
+Imp-ocalypse	Warlock	impocalypse.png
+Ancestral Legacy	Shaman	ancestrallegacy.png
+Spirit Whisperer	Shaman	spiritwhisperer.png
+Frostbitten Axe	Shaman	frostbittenaxe.png
+Bladeworks	Rogue	bladeworks.png
+Crypt Lurker	Rogue	cryptlurker.png
+Gold-Tipped Dagger	Rogue	goldtippeddagger.png
+Penance	Priest	penance.png
+Deathspeaker High Priest	Priest	deathspeakerhighpriest.png
+Forsaken Healer	Priest	forsakenhealer.png
+Cover the Flanks!	Paladin	covertheflanks.png
+Defensive Formation	Paladin	defensiveformation.png
+Scarlet Inquisitor	Paladin	scarletinquisitor.png
+Son of a Lich	Mage	sonofalich.png
+Temporal Flux	Mage	temporalflux.png
+Deathspeaker Adept	Mage	deathspeakeradept.png
+Hellkeeper	Hunter	hellkeeper.png
+Hellhunter Crossbow	Hunter	hellhuntercrossbow.png
+Wyvern Shot	Hunter	wyvernshot.png
+Druid of the Grave	Druid	druidofthegrave.png
+The Giant's Wake	Druid	thegiantswake.png
+Towering Jormungar	Druid	toweringjormungar.png
+Skeleton Footsoldier	Neutral	skeletonfootsoldier.png
+Var'gul	Neutral	vargul.png
+Mad Spellcaster	Neutral	madspellcaster.png
+Rickety Regalia	Neutral	ricketyregalia.png
+Cult Ritualist	Neutral	cultritualist.png
+Deathbringer Saurfang	Neutral	deathbringersaurfang.png
+Blood Queen Lana'thel	Neutral	bloodqueenlanathel.png
+The Lich King	Neutral	thelichking.png
+Fiendish Horror	Token	fiendishhorror.png
+Unholy Power	Token	unholypower.png
+Enter the Wrathgate	Token	enterthewrathgate.png
+Scourge Legionnaire	Token	scourgelegionnaire.png
+Vengeful Wraith	Token	vengefulwraith.png
+Consume Soul	Token	consumesoul.png
+Fallen Champion	Token	fallenchampion.png
+Reborn Necromancer	Token	rebornnecromancer.png
+Flesh Titan	Token	fleshtitan.png
+Plague of Undeath	Token	plagueofundeath.png
+Army of Darkness	Token	armyofdarkness.png
