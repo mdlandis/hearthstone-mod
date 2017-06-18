@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="aviana.png">Aviana</name><set>Druid</set></card>
+		<card><name id="kuntheforgottenking.png">Kun the Forgotten King</name><set>Druid</set></card>
+		<card><name id="jadeblossom.png">Jade Blossom</name><set>Druid</set></card>
+		<card><name id="jadeblossom.png">Jade Blossom</name><set>Druid</set></card>
+		<card><name id="wildgrowth.png">Wild Growth</name><set>Druid</set></card>
+		<card><name id="wildgrowth.png">Wild Growth</name><set>Druid</set></card>
+		<card><name id="nourish.png">Nourish</name><set>Druid</set></card>
+		<card><name id="nourish.png">Nourish</name><set>Druid</set></card>
+		<card><name id="thegiantswake.png">The Giant&apos;s Wake</name><set>Druid</set></card>
+		<card><name id="thegiantswake.png">The Giant&apos;s Wake</name><set>Druid</set></card>
+		<card><name id="darkarakkoa.png">Dark Arakkoa</name><set>Druid</set></card>
+		<card><name id="feralrage.png">Feral Rage</name><set>Druid</set></card>
+		<card><name id="feralrage.png">Feral Rage</name><set>Druid</set></card>
+		<card><name id="earthenscales.png">Earthen Scales</name><set>Druid</set></card>
+		<card><name id="earthenscales.png">Earthen Scales</name><set>Druid</set></card>
+		<card><name id="druidofthegrave.png">Druid of the Grave</name><set>Druid</set></card>
+		<card><name id="druidofthegrave.png">Druid of the Grave</name><set>Druid</set></card>
+		<card><name id="fandralstaghelm.png">Fandral Staghelm</name><set>Druid</set></card>
+		<card><name id="innervate.png">Innervate</name><set>Druid</set></card>
+		<card><name id="innervate.png">Innervate</name><set>Druid</set></card>
+		<card><name id="moongladeportal.png">Moonglade Portal</name><set>Druid</set></card>
+		<card><name id="moongladeportal.png">Moonglade Portal</name><set>Druid</set></card>
+		<card><name id="ravenidol.png">Raven Idol</name><set>Druid</set></card>
+		<card><name id="ravenidol.png">Raven Idol</name><set>Druid</set></card>
+		<card><name id="shellshifter.png">Shellshifter</name><set>Druid</set></card>
+		<card><name id="shellshifter.png">Shellshifter</name><set>Druid</set></card>
+		<card><name id="deathwing.png">Deathwing</name><set>Neutral</set></card>
+		<card><name id="thelichking.png">The Lich King</name><set>Neutral</set></card>
+		<card><name id="soggoththeslitherer.png">Soggoth the Slitherer</name><set>Neutral</set></card>
+		<card><name id="druidoftheclaw.png">Druid of the Claw</name><set>Druid</set></card>
+	</superzone>
+</deck>
