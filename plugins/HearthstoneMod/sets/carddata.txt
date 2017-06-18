@@ -1487,7 +1487,7 @@ Sated Threshadon	Neutral	satedthreshadon.png
 Stormwatcher	Neutral	stormwatcher.png
 Volcanosaur	Neutral	volcanosaur.png
 Frozen Crusher	Neutral	frozencrusher.png
-Hemet, Jungle Hunter	Neutral	hemet,junglehunter.png
+Hemet, Jungle Hunter	Neutral	hemetjunglehunter.png
 Sabretooth Stalker	Neutral	sabretoothstalker.png
 Bittertide Hydra	Neutral	bittertidehydra.png
 Elise the Trailblazer	Neutral	elisethetrailblazer.png
