@@ -1829,3 +1829,4 @@ Reborn Necromancer	Token	rebornnecromancer.png
 Flesh Titan	Token	fleshtitan.png
 Plague of Undeath	Token	plagueofundeath.png
 Army of Darkness	Token	armyofdarkness.png
+Silver Hand Medic	Paladin	silverhandmedic.png
