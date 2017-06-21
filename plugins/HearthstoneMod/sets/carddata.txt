@@ -1342,7 +1342,7 @@ Feral Rage	Druid	feralrage.png
 Addled Grizzly	Druid	addledgrizzly.png
 Mark of Y'Shaarj	Druid	markofyshaarj.png
 Forbidden Ancient	Druid	forbiddenancient.png
-Deathwing, Dragonlord	Neutral	deathwing,dragonlord.png
+Deathwing, Dragonlord	Neutral	deathwingdragonlord.png
 Faceless Behemoth	Neutral	facelessbehemoth.png
 N'Zoth the Corruptor	Neutral	nzoththecorruptor.png
 Yogg-Saron Hope's End	Neutral	yoggsaronhopesend.png
