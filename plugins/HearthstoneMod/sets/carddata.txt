@@ -1830,3 +1830,161 @@ Flesh Titan	Token	fleshtitan.png
 Plague of Undeath	Token	plagueofundeath.png
 Army of Darkness	Token	armyofdarkness.png
 Silver Hand Medic	Paladin	silverhandmedic.png
+Deathstalker Rexxar	Hunter	deathstalkerrexxar.png
+Professor Putricide	Hunter	professorputricidereal.png
+Stitched Tracker	Hunter	stitchedtracker.png
+Abominable Bowman	Hunter	abominationarcher.png
+Corpse Widow	Hunter	corpsewidow.png
+Exploding Bloatbat	Hunter	explodingbloatbat.png
+Play Dead	Hunter	playdead.png
+Venomstrike Trap	Hunter	venomstriketrap.png
+Toxic Arrow	Hunter	toxicarrow.png
+Bearshark	Hunter	bearshark.png
+Valeera the Hollow	Rogue	valeerathehollow.png
+Lillian Voss	Rogue	lillianvoss.png
+Plague Scientist	Rogue	plaguescientist.png
+Leeching Poison	Rogue	leechingpoison.png
+Bone Baron	Rogue	bonebaron.png
+Runeforge Haunter	Rogue	runeforgehaunter.png
+Spectral Pillager	Rogue	spectralpillager.png
+Shadowblade	Rogue	shadowblade.png
+Doomerang	Rogue	doomerang.png
+Roll the Bones	Rogue	rollthebones.png
+Malfurion the Pestilent	Druid	malfurionthepestilent.png
+Hadronox	Druid	hadronox.png
+Fatespinner	Druid	fatespinner.png
+Druid of the Swarm	Druid	druidoftheswarm.png
+Strongshell Scavenger	Druid	strongshellscavenger.png
+Crypt Lord	Druid	cryptlord.png
+Webweave	Druid	webweave.png
+Ultimate Infestation	Druid	ultimateinfestation.png
+Gnash	Druid	gnash.png
+Spreading Plague	Druid	spreadingplague.png
+Uther of the Ebon Blade	Paladin	utheroftheebonblade.png
+Bolvar, Fireblood	Paladin	bolvarfireblood.png
+Howling Commander	Paladin	howlingcommander.png
+Blackguard	Paladin	blackguard.png
+Arrogant Crusader	Paladin	arrogantcrusader.png
+Light's Sorrow	Paladin	lightssorrow.png
+Desperate Stand	Paladin	desperatestand.png
+Dark Conviction	Paladin	darkconviction.png
+Chillblade Champion	Paladin	chillbladechampion.png
+Righteous Protector	Paladin	righteousprotector.png
+Frost Lich Jaina	Mage	frostlichjaina.png
+Sindragosa	Mage	sindragosa.png
+Doomed Apprentice	Mage	doomedapprentice.png
+Ice Walker	Mage	icewalker.png
+Coldwraith	Mage	coldwraith.png
+Ghastly Conjurer	Mage	ghastlyconjurer.png
+Breath of Sindragosa	Mage	breathofsindragosa.png
+Glacial Mysteries	Mage	glacialmysteries.png
+Simulacrum	Mage	simulacrum.png
+Frost Clone	Mage	frostclone.png
+Bloodreaver Gul'dan	Warlock	bloodreaverguldan.png
+Blood Queen Lana'thel	Warlock	bloodqueenlanathelreal.png
+Gnomeferatu	Warlock	gnomeferatu.png
+Treachery	Warlock	treachery.png
+Despicable Dreadlord	Warlock	despicabledreadlord.png
+Unwilling Sacrifice	Warlock	unwillingsacrifice.png
+Defile	Warlock	defile.png
+Drain Soul	Warlock	drainsoul.png
+Wailing Felhound	Warlock	wailingfelhound.png
+Sanguine Reveler	Warlock	sanguinereveler.png
+Scourgelord Garrosh	Warrior	scourgelordgarrosh.png
+Rotface	Warrior	rotface.png
+Dead Man's Hand	Warrior	deadmanshand.png
+Bring It On!	Warrior	bringiton.png
+Death Revenant	Warrior	deathrevenant.png
+Val'kyr Soulclaimer	Warrior	valkyrsoulclaimer.png
+Mountainfire Armor	Warrior	mountainfirearmor.png
+Forge of Souls	Warrior	forgeofsouls.png
+Blood Razor	Warrior	bloodrazor.png
+Animated Berserker	Warrior	fierywarrior.png
+Thrall, Deathseer	Shaman	thralldeathseer.png
+Moorabi	Shaman	moorabi.png
+Snowfury Giant	Shaman	snowfurygiant.png
+Cryostasis	Shaman	cryostasis.png
+Avalanche	Shaman	avalanche.png
+Voodoo Hexer	Shaman	voodoohexer.png
+Ice Breaker	Shaman	icebreaker.png
+Drakkari Defender	Shaman	drakkaridefender.png
+Ice Fishing	Shaman	icefishing.png
+Brrrloc	Shaman	brrrloc.png
+Shadowreaper Anduin	Priest	shadowreaperanduin.png
+Archbishop Benedictus	Priest	archbishopbenedictus.png
+Obsidian Statue	Priest	obsidianstatue.png
+Embrace Darkness	Priest	embracedarkness.png
+Shadow Essence	Priest	shadowessence.png
+Devour Mind	Priest	devourmind.png
+Eternal Servitude	Priest	eternalservitude.png
+Acolyte of Agony	Priest	acolyteofagony.png
+Shadow Ascendant	Priest	shadowascendant.png
+Spirit Lash	Priest	spiritlash.png
+Prince Keleseth	Neutral	princekeleseth.png
+Prince Taldaram	Neutral	princetaldaram.png
+Prince Valanar	Neutral	princevalanar.png
+The Lich King	Neutral	thelichkingreal.png
+Arfus	Neutral	arfus.png
+Nerubian Unraveler	Neutral	nerubianunraveler.png
+Corpsetaker	Neutral	corpsetaker.png
+Meat Wagon	Neutral	meatwagon.png
+Tomb Lurker	Neutral	tomblurker.png
+Skulking Geist	Neutral	skulkinggeist.png
+Rattling Rascal	Neutral	rattlingrascal.png
+Drakkari Enchanter	Neutral	drakkarienchanter.png
+Furnacefire Colossus	Neutral	furnacefirecolossus.png
+Deathaxe Punisher	Neutral	deathaxepunisher.png
+Shallow Gravedigger	Neutral	shallowgravedigger.png
+Ticking Abomination	Neutral	tickingabomination.png
+Mindbreaker	Neutral	mindbreaker.png
+Phantom Freebooter	Neutral	phantomfreebooter.png
+Corpse Raiser	Neutral	corpseraiser.png
+Saronite Chain Gang	Neutral	saronitechaingang.png
+Happy Ghoul	Neutral	happyghoul.png
+Keening Banshee	Neutral	keeningbanshee.png
+Bone Drake	Neutral	bonedrake.png
+Bonemare	Neutral	bonemare.png
+Snowflipper Penguin	Neutral	snowflipperpenguin.png
+Cobalt Scalebane	Neutral	cobaltscalebane.png
+Necrotic Geist	Neutral	necroticgeist.png
+Fallen Sun Cleric	Neutral	fallensuncleric.png
+Deathspeaker	Neutral	deathspeaker.png
+Sunborne Val'kyr	Neutral	sunbornevalkyr.png
+Deadscale Knight	Neutral	deadscaleknight.png
+Hyldnir Frostrider	Neutral	hyldnirfrostrider.png
+Night Howler	Neutral	nighthowler.png
+Tuskarr Fisherman	Neutral	tuskarrfisherman.png
+Vryghoul	Neutral	vryghoul.png
+Acherus Veteran	Neutral	acherusveteran.png
+Venomancer	Neutral	venomancer.png
+Skelemancer	Neutral	skelemancer.png
+Grave Shambler	Neutral	graveshambler.png
+Tainted Zealot	Neutral	taintedzealot.png
+Spellweaver	Neutral	spellweaver.png
+Wretched Tiller	Neutral	wretchedtiller.png
+Wicked Skeleton	Neutral	wickedskeleton.png
+Grim Necromancer	Neutral	grimnecromancer.png
+Build-a-Beast	Hero	buildabeast.png
+Icy Touch	Hero	icytouch.png
+The Four Horsemen	Hero	thefourhorsemen.png
+Voidform	Hero	voidform.png
+Death's Shadow	Hero	deathsshadow.png
+Plague Lord	Hero	plaguelord.png
+Bladestorm	Hero	bladestorm.png
+Siphon Life	Hero	siphonlife.png
+Transmute Spirit	Hero	transmutespirit.png
+Shadow Reflection	Token	shadowreflection.png
+Anti-Magic Shell	Token	antimagicshell.png
+Death Coil	Token	deathcoil.png
+Obliterate	Token	obliterate.png
+Frostmourne	Token	frostmournereal.png
+Doom Pact	Token	doompact.png
+Death Grip	Token	deathgrip.png
+Death and Decay	Token	deathanddecay.png
+Army of the Dead	Token	armyofthedead.png
+Darion Mograine	Token	darionmograine.png
+Inquisitor Whitemane	Token	inquisitorwhitemane.png
+Thoras Trollbane	Token	thorastrollbane.png
+Deathlord Nazgrim	Token	deathlordnazgrim.png
+Shadowmourne	Token	shadowmournereal.png
+Grave Vengeance	Token	gravevengeance.png
