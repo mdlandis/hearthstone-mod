@@ -1278,10 +1278,62 @@ Beasts (STANDARD):
 76Young Dragonhawk
 
 
+Build-a-Beast:
+1st Option:
 
+1Dispatch Kodo
+2Gentle Megasaur
+3Infested Wolf
+4Ironbeak Owl
+5King Mukla
+6Pantry Spider
+7Rat Pack
+8Silithid Swarmer
+9Thunder Lizard
+10Vicious Fledgling
+11Crackling Razormaw
+12Dire Wolf Alpha
+13Golakka Crawler
+14Kindly Grandmother
+15Ravasaur Runt
+16Scavenging Hyena
+17Alleycat
+18Emerald Hive Queen
+19Emerald Reaver
+20Fiery Bat
+21Hungry Crab
+22Jeweled Macaw
+23Raptor Hatchling
+24Timber Wolf
+25Weasel Tunneler
+26Bittertide Hydra
+27Knuckles
+28Nesting Roc
+29Princess Huhuran
+30Stampeding Kodo
+31Starving Buzzard
+32Stranglethorn Tiger
+33Tundra Rhino
 
+2nd Option:
 
-
+1Oasis Snapjaw
+2Stegodon
+3Carrion Grub
+4Emperor Cobra
+5Giant Wasp
+6Ironfur Grizzly
+7Jungle Panther
+8Pterrordax Hatchling
+9Silverback Patriarch
+10Bloodfen Raptor
+11Duskboar
+12River Crocolisk
+13Stubborn Gastropod
+14Angry Chicken
+15Stonetusk Boar
+16Young Dragonhawk
+17Stranglethorn Tiger
 
 
 
