@@ -1,21 +1,20 @@
 <save>
-<turn>11</turn>
+<turn>13</turn>
 <player>
 <name>harsh criticism bird</name>
 <seat>0</seat>
 <playerstats>
-<Mana>6</Mana>
+<Mana>7</Mana>
 </playerstats>
 <zone0>
 <visibleto>harsh criticism bird</visibleto>
+<card><id>617</id><owner>harsh criticism bird</owner></card>
 <card><id>516</id><owner>harsh criticism bird</owner></card>
 <card><id>641</id><owner>harsh criticism bird</owner></card>
-<card><id>1125</id><owner>harsh criticism bird</owner></card>
 <card><id>1412</id><owner>harsh criticism bird</owner></card>
 <card><id>787</id><owner>harsh criticism bird</owner></card>
 </zone0>
 <zone1>
-<card><id>617</id><owner>harsh criticism bird</owner></card>
 <card><id>910</id><owner>harsh criticism bird</owner></card>
 <card><id>1338</id><owner>harsh criticism bird</owner></card>
 <card><id>1586</id><owner>harsh criticism bird</owner></card>
@@ -47,6 +46,8 @@
 <card><id>1099</id><owner>harsh criticism bird</owner></card>
 <card><id>1106</id><owner>harsh criticism bird</owner></card>
 <card><id>980</id><owner>harsh criticism bird</owner></card>
+<card><id>651</id><owner>harsh criticism bird</owner></card>
+<card><id>669</id><owner>harsh criticism bird</owner></card>
 </zone2>
 <zone3>
 <visibleto>harsh criticism bird</visibleto>
@@ -56,20 +57,17 @@
 <name>Muhframos</name>
 <seat>1</seat>
 <playerstats>
-<Health>29</Health>
-<Mana>5</Mana>
+<Health>28</Health>
+<Mana>6</Mana>
 </playerstats>
 <zone0>
 <visibleto>Muhframos</visibleto>
+<card><id>330</id><owner>Muhframos</owner></card>
 <card><id>1359</id><owner>Muhframos</owner></card>
 <card><id>315</id><owner>Muhframos</owner></card>
 <card><id>1017</id><owner>Muhframos</owner></card>
-<card><id>244</id><owner>Muhframos</owner></card>
-<card><id>316</id><owner>Muhframos</owner></card>
-<card><id>316</id><owner>Muhframos</owner></card>
 </zone0>
 <zone1>
-<card><id>330</id><owner>Muhframos</owner></card>
 <card><id>244</id><owner>Muhframos</owner></card>
 <card><id>1017</id><owner>Muhframos</owner></card>
 <card><id>1541</id><owner>Muhframos</owner></card>
@@ -96,11 +94,14 @@
 <card><id>211</id><owner>Muhframos</owner></card>
 <card><id>1541</id><owner>Muhframos</owner></card>
 <card><id>315</id><owner>Muhframos</owner></card>
+<card><id>965</id><owner>Muhframos</owner></card>
 <card><id>1541</id><owner>Muhframos</owner></card>
 <card><id>898</id><owner>Muhframos</owner></card>
 <card><id>898</id><owner>Muhframos</owner></card>
 <card><id>316</id><owner>Muhframos</owner></card>
 <card><id>962</id><owner>Muhframos</owner></card>
+<card><id>244</id><owner>Muhframos</owner></card>
+<card><id>316</id><owner>Muhframos</owner></card>
 </zone2>
 <zone3>
 <visibleto>Muhframos</visibleto>
@@ -111,8 +112,12 @@
 <card><id>1035</id><owner>Muhframos</owner><x>0.84</x><y>0.51</y></card>
 <card><id>782</id><owner>harsh criticism bird</owner><isturnedover>1</isturnedover><x>0.84</x><y>-0.45</y></card>
 <card><id>1668</id><owner>harsh criticism bird</owner><x>0.63</x><y>-0.45</y></card>
-<card><id>669</id><owner>harsh criticism bird</owner><y>-0.48</y></card>
-<card><id>965</id><owner>Muhframos</owner><y>0.48</y></card>
-<card><id>651</id><owner>harsh criticism bird</owner><x>-0.18</x><y>-0.24</y></card>
+<card><id>316</id><owner>Muhframos</owner><x>0.03</x><y>0.6</y></card>
+<card><id>316</id><owner>Muhframos</owner><x>0.27</x><y>0.54</y></card>
+<card><id>1125</id><owner>harsh criticism bird</owner><x>0.42</x><y>-0.39</y><Green>1</Green></card>
+<card><id>373</id><owner>harsh criticism bird</owner><x>-0.12</x><y>-0.42</y></card>
+<card><id>652</id><owner>harsh criticism bird</owner><x>-0.36</x><y>-0.39</y><Red>2</Red><Green>2</Green></card>
+<card><id>316</id><owner>Muhframos</owner><x>-0.42</x><y>0.63</y></card>
+<card><id>316</id><owner>Muhframos</owner><x>-0.18</x><y>0.57</y></card>
 </table>
 </save>
