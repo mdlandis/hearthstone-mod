@@ -2002,7 +2002,7 @@ Guild Recruiter	Neutral	guildrecruiter.png
 Lesser Jasper Spellstone	Druid	lesserjasperspellstone.png
 Jasper Spellstone	Druid	jasperspellstone.png
 Greater Jasper Spellstone	Druid	greaterjasperspellstone.png
-Lesser Sapphire Spellstone	Shaman	lesserjasperspellstone.png
+Lesser Sapphire Spellstone	Shaman	lessersapphirespellstone.png
 Sapphire Spellstone	Shaman	sapphirespellstone.png
 Greater Sapphire Spellstone	Shaman	greatersapphirespellstone.png
 Dragon Soul	Priest	dragonsoul.png
