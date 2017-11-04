@@ -1369,7 +1369,7 @@ Blackwater Pirate	Neutral	blackwaterpirate.png
 Cyclopian Horror	Neutral	cyclopianhorror.png
 Eater of Secrets	Neutral	eaterofsecrets.png
 Evolved Kobold	Neutral	evolvedkobold.png
-Faceless Shambler	Neutral	facelessshambler.png
+Faceless Shambler	Neutral	facelesshambler.png
 Infested Tauren	Neutral	infestedtauren.png
 Midnight Drake	Neutral	midnightdrake.png
 Polluted Hoarder	Neutral	pollutedhoarder.png
