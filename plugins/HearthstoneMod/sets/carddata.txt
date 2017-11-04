@@ -1988,3 +1988,30 @@ Thoras Trollbane	Token	thorastrollbane.png
 Deathlord Nazgrim	Token	deathlordnazgrim.png
 Shadowmourne	Token	shadowmournereal.png
 Grave Vengeance	Token	gravevengeance.png
+Drygulch Jailor	Paladin	drygulchjailor.png
+Rin, The First Disciple	Warlock	rinthefirstdisciple.png
+The First Seal	Token	thefirstseal.png
+The Second Seal	Token	thesecondseal.png
+The Third Seal	Token	thethirdseal.png
+The Fourth Seal	Token	thefourthseal.png
+The Final Seal	Token	thefinalseal.png
+Azari, the Devourer	Token	azarithedevourer.png
+Kobold Illuisionist	Rogue	koboldillusionist.png
+Carnivorous Cube	Neutral	carnivorouscube.png
+Guild Recruiter	Neutral	guildrecruiter.png
+Lesser Jasper Spellstone	Druid	lesserjasperspellstone.png
+Jasper Spellstone	Druid	jasperspellstone.png
+Greater Jasper Spellstone	Druid	greaterjasperspellstone.png
+Lesser Sapphire Spellstone	Shaman	lesserjasperspellstone.png
+Sapphire Spellstone	Shaman	sapphirespellstone.png
+Greater Sapphire Spellstone	Shaman	greatersapphirespellstone.png
+Dragon Soul	Priest	dragonsoul.png
+Aluneth	Mage	aluneth.png
+Crushing Walls	Hunter	crushingwalls.png
+Gather Your Party	Warrior	gatheryourparty.png
+Marin the Fox	Neutral	marinthefox.png
+Master Chest	Token	masterchest.png
+Golden Kobold	Token	goldenkobold.png
+Tolin's Goblet	Token	tolinsgoblet.png
+Wondrous Wand	Token	wondrouswand.png
+Zarog's Crown	Token	zarogscrown.png
