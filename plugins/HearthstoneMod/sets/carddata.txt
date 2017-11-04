@@ -2011,7 +2011,7 @@ Crushing Walls	Hunter	crushingwalls.png
 Gather Your Party	Warrior	gatheryourparty.png
 Marin the Fox	Neutral	marinthefox.png
 Master Chest	Token	masterchest.png
-Golden Kobold	Token	goldenkobold.png
 Tolin's Goblet	Token	tolinsgoblet.png
 Wondrous Wand	Token	wondrouswand.png
 Zarog's Crown	Token	zarogscrown.png
+Golden Kobold	Token	goldenkobold.png
