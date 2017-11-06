@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="lostinthejungle.png">Lost in the Jungle</name><set>Paladin</set></card>
+		<card><name id="lostinthejungle.png">Lost in the Jungle</name><set>Paladin</set></card>
+		<card><name id="righteousprotector.png">Righteous Protector</name><set>Paladin</set></card>
+		<card><name id="righteousprotector.png">Righteous Protector</name><set>Paladin</set></card>
+		<card><name id="drygulchjailor.png">Drygulch Jailor</name><set>Paladin</set></card>
+		<card><name id="drygulchjailor.png">Drygulch Jailor</name><set>Paladin</set></card>
+		<card><name id="knifejuggler.png">Knife Juggler</name><set>Neutral</set></card>
+		<card><name id="knifejuggler.png">Knife Juggler</name><set>Neutral</set></card>
+		<card><name id="shieldedminibot.png">Shielded Minibot</name><set>Paladin</set></card>
+		<card><name id="shieldedminibot.png">Shielded Minibot</name><set>Paladin</set></card>
+		<card><name id="musterforbattle.png">Muster for Battle</name><set>Paladin</set></card>
+		<card><name id="musterforbattle.png">Muster for Battle</name><set>Paladin</set></card>
+		<card><name id="rallyingblade.png">Rallying Blade</name><set>Paladin</set></card>
+		<card><name id="rallyingblade.png">Rallying Blade</name><set>Paladin</set></card>
+		<card><name id="stewardofdarkshire.png">Steward of Darkshire</name><set>Paladin</set></card>
+		<card><name id="stewardofdarkshire.png">Steward of Darkshire</name><set>Paladin</set></card>
+		<card><name id="keeperofuldaman.png">Keeper of Uldaman</name><set>Paladin</set></card>
+		<card><name id="keeperofuldaman.png">Keeper of Uldaman</name><set>Paladin</set></card>
+		<card><name id="lightfusedstegodon.png">Lightfused Stegodon</name><set>Paladin</set></card>
+		<card><name id="lightfusedstegodon.png">Lightfused Stegodon</name><set>Paladin</set></card>
+		<card><name id="loatheb.png">Loatheb</name><set>Neutral</set></card>
+		<card><name id="quartermaster.png">Quartermaster</name><set>Paladin</set></card>
+		<card><name id="quartermaster.png">Quartermaster</name><set>Paladin</set></card>
+		<card><name id="sunkeepertarim.png">Sunkeeper Tarim</name><set>Paladin</set></card>
+		<card><name id="vinecleaver.png">Vinecleaver</name><set>Paladin</set></card>
+		<card><name id="hauntedcreeper.png">Haunted Creeper</name><set>Neutral</set></card>
+		<card><name id="southseadeckhand.png">Southsea Deckhand</name><set>Neutral</set></card>
+		<card><name id="southseadeckhand.png">Southsea Deckhand</name><set>Neutral</set></card>
+		<card><name id="patchesthepirate.png">Patches the Pirate</name><set>Neutral</set></card>
+		<card><name id="spikeridgedsteed.png">Spikeridged Steed</name><set>Paladin</set></card>
+	</superzone>
+</deck>
