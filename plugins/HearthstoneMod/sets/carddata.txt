@@ -1982,10 +1982,10 @@ Doom Pact	Token	doompact.png
 Death Grip	Token	deathgrip.png
 Death and Decay	Token	deathanddecay.png
 Army of the Dead	Token	armyofthedead.png
-Darion Mograine	Token	darionmograine.png
-Inquisitor Whitemane	Token	inquisitorwhitemane.png
-Thoras Trollbane	Token	thorastrollbane.png
-Deathlord Nazgrim	Token	deathlordnazgrim.png
+Horseman1	Token	darionmograine.png
+Horseman2	Token	inquisitorwhitemane.png
+Horseman3	Token	thorastrollbane.png
+Horseman4	Token	deathlordnazgrim.png
 Shadowmourne	Token	shadowmournereal.png
 Grave Vengeance	Token	gravevengeance.png
 Drygulch Jailor	Paladin	drygulchjailor.png
