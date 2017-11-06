@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>HearthstoneMod</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="nzoththecorruptor.png">N&apos;Zoth the Corruptor</name><set>Neutral</set></card>
+		<card><name id="savannahhighmane.png">Savannah Highmane</name><set>Hunter</set></card>
+		<card><name id="savannahhighmane.png">Savannah Highmane</name><set>Hunter</set></card>
+		<card><name id="infestedwolf.png">Infested Wolf</name><set>Hunter</set></card>
+		<card><name id="ratpack.png">Rat Pack</name><set>Hunter</set></card>
+		<card><name id="kindlygrandmother.png">Kindly Grandmother</name><set>Hunter</set></card>
+		<card><name id="kindlygrandmother.png">Kindly Grandmother</name><set>Hunter</set></card>
+		<card><name id="cracklingrazormaw.png">Crackling Razormaw</name><set>Hunter</set></card>
+		<card><name id="cracklingrazormaw.png">Crackling Razormaw</name><set>Hunter</set></card>
+		<card><name id="deathstalkerrexxar.png">Deathstalker Rexxar</name><set>Hunter</set></card>
+		<card><name id="deadlyshot.png">Deadly Shot</name><set>Hunter</set></card>
+		<card><name id="deadlyshot.png">Deadly Shot</name><set>Hunter</set></card>
+		<card><name id="crushingwalls.png">Crushing Walls</name><set>Hunter</set></card>
+		<card><name id="crushingwalls.png">Crushing Walls</name><set>Hunter</set></card>
+		<card><name id="alleycat.png">Alleycat</name><set>Hunter</set></card>
+		<card><name id="alleycat.png">Alleycat</name><set>Hunter</set></card>
+		<card><name id="killcommand.png">Kill Command</name><set>Hunter</set></card>
+		<card><name id="killcommand.png">Kill Command</name><set>Hunter</set></card>
+		<card><name id="animalcompanion.png">Animal Companion</name><set>Hunter</set></card>
+		<card><name id="animalcompanion.png">Animal Companion</name><set>Hunter</set></card>
+		<card><name id="stitchedtracker.png">Stitched Tracker</name><set>Hunter</set></card>
+		<card><name id="stitchedtracker.png">Stitched Tracker</name><set>Hunter</set></card>
+		<card><name id="corpsewidow.png">Corpse Widow</name><set>Hunter</set></card>
+		<card><name id="corpsewidow.png">Corpse Widow</name><set>Hunter</set></card>
+		<card><name id="bonemare.png">Bonemare</name><set>Neutral</set></card>
+		<card><name id="bonemare.png">Bonemare</name><set>Neutral</set></card>
+		<card><name id="devilsauregg.png">Devilsaur Egg</name><set>Neutral</set></card>
+		<card><name id="marinthefox.png">Marin the Fox</name><set>Neutral</set></card>
+		<card><name id="crazedalchemist.png">Crazed Alchemist</name><set>Neutral</set></card>
+		<card><name id="crazedalchemist.png">Crazed Alchemist</name><set>Neutral</set></card>
+	</superzone>
+</deck>
