@@ -1860,7 +1860,7 @@ Webweave	Druid	webweave.png
 Ultimate Infestation	Druid	ultimateinfestation.png
 Gnash	Druid	gnash.png
 Spreading Plague	Druid	spreadingplague.png
-Uther of the Ebon Blade	Paladin	utheroftheebonblade.png
+Uther of the Ebon Blade	Heroes	utheroftheebonblade.png
 Bolvar, Fireblood	Paladin	bolvarfireblood.png
 Howling Commander	Paladin	howlingcommander.png
 Blackguard	Paladin	blackguard.png
@@ -2018,3 +2018,9 @@ Golden Kobold	Token	goldenkobold.png
 Princess	Neutral	princess.png
 Kobold Hypnotizer	Priest	koboldhypnotizer.png
 Jolt, Guild Maker	Neutral	joltguildmaker.png
+Siphon Life	Heroes	siphonlife.png
+Build-a-Beast	Heroes	buildabeast.png
+Icy Touch	Heroes	icytouch.png
+The Four Horsemen	Heroes	thefourhorsemen.png
+Grave Vengeance	Heroes	gravevengeance.png
+Atiesh	Token	atiesh.png
