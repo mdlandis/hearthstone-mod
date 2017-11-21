@@ -2024,3 +2024,14 @@ Icy Touch	Heroes	icytouch.png
 The Four Horsemen	Heroes	thefourhorsemen.png
 Grave Vengeance	Heroes	gravevengeance.png
 Atiesh	Token	atiesh.png
+Branching Paths	Druid	branchingpaths.png
+Kathrena Winterwisp	Hunter	kathrenawinterwisp.png
+Feral Gibberer	Neutral	feralgibberer.png
+Level Up!	Paladin	levelup!.png
+Duskbreaker	Priest	duskbreaker.png
+Cheat Death	Rogue	cheatdeath.png
+Sudden Betrayal	Rogue	suddenbetrayal.png
+The Runespear	Shaman	therunespear.png
+Lesser Mithril Spellstone	Warrior	lessermithrilspellstone.png
+Mithril Spellstone	Warrior	mithrilspellstone.png
+Greater Mithril Spellstone	Warrior	greatermithrilspellstone.png
