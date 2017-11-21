@@ -2035,3 +2035,6 @@ The Runespear	Shaman	therunespear.png
 Lesser Mithril Spellstone	Warrior	lessermithrilspellstone.png
 Mithril Spellstone	Warrior	mithrilspellstone.png
 Greater Mithril Spellstone	Warrior	greatermithrilspellstone.png
+Twig of the World Tree	Druid	twigoftheworldtree.png
+Rummaging Kobold	Neutral	rummagingkobold.png
+Zola the Gorgon	Neutral	zolathegorgon.png
