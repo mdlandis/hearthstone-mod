@@ -2038,3 +2038,40 @@ Greater Mithril Spellstone	Warrior	greatermithrilspellstone.png
 Twig of the World Tree	Druid	twigoftheworldtree.png
 Rummaging Kobold	Neutral	rummagingkobold.png
 Zola the Gorgon	Neutral	zolathegorgon.png
+Asriel Dreemurr	RRD	asrieldreemurr.png
+Flowey	RRD	flowey.png
+Frisk	RRD	frisk.png
+Gaster Blaster Giant	RRD	gasterblastergiant.png
+Monster Kid	RRD	monsterkid.png
+Papyrus	RRD	papyrus.png
+Temmie	RRD	temmie.png
+Undyne	RRD	undyne.png
+Undyne the Undying	Token	undynetheundying.png
+Vulkin	RRD	vulkin.png
+Woshua	RRD	woshua.png
+Toriel	RRD	toriel.png
+Real Knife	RRD	realknife.png
+Greater Dog	RRD	greaterdog.png
+Grillby	RRD	grillby.png
+Spaghetti	Token	spaghetti.png
+The Human Souls	Heroes	thehumansouls.png
+Asriel, Ultimate Form	Token	asrielultimateform.png
+Asriel, God of Hyperdeath	Token	asrielgodofhyperdeath.png
+Omega Flowey	Heroes	omegaflowey.png
+Disrespectful Slap	Punch	disrespectfulslap.png
+Uppercut!	Punch	uppercut.png
+Jab	Punch	jab.png
+Charge Punch	Punch	chargepunch.png
+Ground Punch	Punch	groundpunch.png
+Bozok Lifepuncher	Punch	bozoklifepuncher.png
+Demonpuncher Gauntlet	Punch	demonpunchergauntlet
+Cheap Punch	Punch	cheappunch.png
+Throw	Punch	throw.png
+Launcher Punch	Punch	launcherpunch.png
+Pulverize	Punch	pulverize.png
+Gut Punch	Punch	gutpunch.png
+Dragon Punch	Punch	dragonpunch.png
+Handwrap Punch	Heroes	handwrappunch.png
+Muhframos	Heroes	muhframos.png
+WHAT MOCKERY?! Punch	whatmockery.png
+Chain Punches	Punch	chainpunches.png
