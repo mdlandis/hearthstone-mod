@@ -2064,7 +2064,7 @@ Jab	Punch	jab.png
 Charge Punch	Punch	chargepunch.png
 Ground Punch	Punch	groundpunch.png
 Bozok Lifepuncher	Punch	bozoklifepuncher.png
-Demonpuncher Gauntlet	Punch	demonpunchergauntlet
+Demonpuncher Gauntlet	Punch	demonpunchergauntlet.png
 Cheap Punch	Punch	cheappunch.png
 Throw	Punch	throw.png
 Launcher Punch	Punch	launcherpunch.png
@@ -2075,3 +2075,15 @@ Handwrap Punch	Heroes	handwrappunch.png
 Muhframos	Heroes	muhframos.png
 WHAT MOCKERY?! Punch	whatmockery.png
 Chain Punches	Punch	chainpunches.png
+Blood Acolyte	Jack	bloodacolyte.png
+Blood Golem	Jack	bloodgolem.png
+Bloodmoon Samurai	Jack	bloodmoonsamurai.png
+Bloodthirsty Gladiator	Jack	bloodthirstygladiator.png
+Creeping Nightmares	Jack	creepingnightmares.png
+Gore Blast	Jack	goreblast.png
+Hexer of Bloody Rituals	Jack	hexerofbloodyrituals.png
+Jack of Spades	Jack	jackofspades.png
+Seize Knowledge	Jack	seizeknowledge.png
+Thought Corruption	Jack	thoughtcorruption.png
+Jack of Spades	Heroes	jackofspades.png
+The Power of Red	Heroes	thepowerofred.png
